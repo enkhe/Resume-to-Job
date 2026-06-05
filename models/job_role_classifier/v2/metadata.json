@@ -1,0 +1,31 @@
+{
+  "version": "v2",
+  "model_name": "job_role_classifier",
+  "trained_at": "2026-06-05T08:54:23.888947+00:00",
+  "model_type": "TfidfVectorizer + LogisticRegression (sklearn Pipeline)",
+  "sklearn_version": "1.9.0",
+  "n_samples": 1129,
+  "classes": [
+    "Backend",
+    "Cloud & DevOps",
+    "Cybersecurity",
+    "Data & Analytics",
+    "Frontend",
+    "Full Stack",
+    "IT Infrastructure & Support",
+    "Machine Learning / AI",
+    "Mobile",
+    "QA & Testing",
+    "Software Engineering"
+  ],
+  "label_source": "jsearch_harvest_manifest_role->category",
+  "data_fingerprint": "273cfdd204045884",
+  "hyperparameters": {
+    "C": 2.0,
+    "test_size": 0.2,
+    "ngram_range": [
+      1,
+      2
+    ]
+  }
+}

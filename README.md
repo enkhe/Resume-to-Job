@@ -6,6 +6,18 @@ Streamlit application that ingests job listings, embeds descriptions with a loca
 
 ---
 
+## 📚 Documentation
+
+Full documentation lives in [docs/](docs/README.md). Start there for:
+
+- **Architecture** — [overview](docs/architecture/overview.md) · [data model](docs/architecture/data-model.md) · [diagrams](docs/architecture/diagrams.md)
+- **Pipeline** — [data ingestion](docs/pipeline/data-ingestion.md) · [job search (keyword vs semantic)](docs/pipeline/job-search.md) · [job matching](docs/pipeline/job-matching.md)
+- **MLOps** — [model card](docs/mlops/model-card.md) · [training pipeline](docs/mlops/training-pipeline.md) · [lifecycle](docs/mlops/lifecycle.md)
+- **Operations** — [configuration](docs/operations/configuration.md) · [CI/CD](docs/operations/ci-cd.md) · [deployment](docs/operations/deployment.md) · [observability](docs/operations/observability.md)
+- **Development** — [getting started](docs/development/getting-started.md) · [project structure](docs/development/project-structure.md) · [testing](docs/development/testing.md)
+
+---
+
 ## Current features (2.0)
 
 | Area | Status |
@@ -178,4 +190,4 @@ Docker files support **2.0 → 2.1 → 2.2** image tags when the app is ready to
 
 Older sections in git history described PostgreSQL, Prisma, Resume Builder, and three ingestion paths including scraping. The running app uses **SQLite** and the flows documented above; PostgreSQL and scraper remain architectural targets, not the current runtime.
 
-![Architecture diagram](image/README/1780005528593.png)
+![Architecture diagram](docs/image/README/1780005528593.png)

@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import os
-from pathlib import Path
 
 import pandas as pd
 import streamlit as st
@@ -11,7 +10,7 @@ from src.adapters.outbound.embedding.sentence_transformers_adapter import (
 	SentenceTransformersEmbeddingAdapter,
 )
 from src.adapters.outbound.llm.openai_compatible_adapter import OpenAICompatibleRecommendationAdapter
-from src.adapters.outbound.persistence.sqlite_job_repository import SQLiteJobRepository
+from src.adapters.outbound.persistence.repository_factory import get_job_repository
 from src.application.use_cases.match_jobs_to_resume import (
 	MatchJobsToResumeUseCase,
 	RankedJobMatch,
@@ -20,12 +19,11 @@ from src.application.use_cases.recommend_jobs_with_ai import RecommendJobsWithAI
 from src.domain.entities.Job import Job
 from src.domain.entities.Recommendation import ResumeRecommendation
 from src.domain.entities.Resume import Resume
+from src.ports.output.job_repository import JobRepositoryPort
 
 
-def _load_repository() -> SQLiteJobRepository:
-	db_path = Path(os.getenv("JOB_DB_PATH", "data/jobs.db"))
-	db_path.parent.mkdir(parents=True, exist_ok=True)
-	return SQLiteJobRepository(db_path)
+def _load_repository() -> JobRepositoryPort:
+	return get_job_repository()
 
 
 def _parse_uploaded_resume(uploaded_pdf) -> Resume | None:

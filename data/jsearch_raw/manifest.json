@@ -1,0 +1,964 @@
+{
+  "calls": {
+    "entry level software engineer remote::p1": {
+      "query": "entry level software engineer remote",
+      "page": 1,
+      "role": "entry level software engineer",
+      "location": "remote",
+      "results": 10,
+      "file": "3c7a5b37769a7780.json"
+    },
+    "junior software developer remote::p1": {
+      "query": "junior software developer remote",
+      "page": 1,
+      "role": "junior software developer",
+      "location": "remote",
+      "results": 10,
+      "file": "a2ef8355cda75230.json"
+    },
+    "new grad software engineer remote::p1": {
+      "query": "new grad software engineer remote",
+      "page": 1,
+      "role": "new grad software engineer",
+      "location": "remote",
+      "results": 10,
+      "file": "d017c4acc56f8b9e.json"
+    },
+    "full stack developer remote::p1": {
+      "query": "full stack developer remote",
+      "page": 1,
+      "role": "full stack developer",
+      "location": "remote",
+      "results": 10,
+      "file": "d2c4df1dcbe1c606.json"
+    },
+    "front end developer remote::p1": {
+      "query": "front end developer remote",
+      "page": 1,
+      "role": "front end developer",
+      "location": "remote",
+      "results": 10,
+      "file": "1e387963e41158d3.json"
+    },
+    "back end developer remote::p1": {
+      "query": "back end developer remote",
+      "page": 1,
+      "role": "back end developer",
+      "location": "remote",
+      "results": 10,
+      "file": "05b479d537f92130.json"
+    },
+    "data analyst remote::p1": {
+      "query": "data analyst remote",
+      "page": 1,
+      "role": "data analyst",
+      "location": "remote",
+      "results": 10,
+      "file": "2efc23e08fa8b438.json"
+    },
+    "junior data scientist remote::p1": {
+      "query": "junior data scientist remote",
+      "page": 1,
+      "role": "junior data scientist",
+      "location": "remote",
+      "results": 10,
+      "file": "4275902e5eceeaa6.json"
+    },
+    "data engineer remote::p1": {
+      "query": "data engineer remote",
+      "page": 1,
+      "role": "data engineer",
+      "location": "remote",
+      "results": 10,
+      "file": "04329f969deba687.json"
+    },
+    "machine learning engineer remote::p1": {
+      "query": "machine learning engineer remote",
+      "page": 1,
+      "role": "machine learning engineer",
+      "location": "remote",
+      "results": 10,
+      "file": "7f45346e9cb47579.json"
+    },
+    "cloud engineer remote::p1": {
+      "query": "cloud engineer remote",
+      "page": 1,
+      "role": "cloud engineer",
+      "location": "remote",
+      "results": 10,
+      "file": "c71513f300c755f4.json"
+    },
+    "devops engineer remote::p1": {
+      "query": "devops engineer remote",
+      "page": 1,
+      "role": "devops engineer",
+      "location": "remote",
+      "results": 10,
+      "file": "ea9cc682858f0049.json"
+    },
+    "cybersecurity analyst remote::p1": {
+      "query": "cybersecurity analyst remote",
+      "page": 1,
+      "role": "cybersecurity analyst",
+      "location": "remote",
+      "results": 10,
+      "file": "b7c773231f62c7a2.json"
+    },
+    "information security analyst remote::p1": {
+      "query": "information security analyst remote",
+      "page": 1,
+      "role": "information security analyst",
+      "location": "remote",
+      "results": 10,
+      "file": "a8385825dc4283b8.json"
+    },
+    "IT support specialist remote::p1": {
+      "query": "IT support specialist remote",
+      "page": 1,
+      "role": "IT support specialist",
+      "location": "remote",
+      "results": 10,
+      "file": "ddc6e3b40b311ae9.json"
+    },
+    "help desk technician remote::p1": {
+      "query": "help desk technician remote",
+      "page": 1,
+      "role": "help desk technician",
+      "location": "remote",
+      "results": 10,
+      "file": "9a94443cf76cec3e.json"
+    },
+    "systems administrator remote::p1": {
+      "query": "systems administrator remote",
+      "page": 1,
+      "role": "systems administrator",
+      "location": "remote",
+      "results": 10,
+      "file": "700fef8e184dec04.json"
+    },
+    "network engineer remote::p1": {
+      "query": "network engineer remote",
+      "page": 1,
+      "role": "network engineer",
+      "location": "remote",
+      "results": 10,
+      "file": "1f72bcece3759771.json"
+    },
+    "QA engineer remote::p1": {
+      "query": "QA engineer remote",
+      "page": 1,
+      "role": "QA engineer",
+      "location": "remote",
+      "results": 10,
+      "file": "e58360e65da4d96c.json"
+    },
+    "business intelligence analyst remote::p1": {
+      "query": "business intelligence analyst remote",
+      "page": 1,
+      "role": "business intelligence analyst",
+      "location": "remote",
+      "results": 10,
+      "file": "ce73fd0797efae04.json"
+    },
+    "database administrator remote::p1": {
+      "query": "database administrator remote",
+      "page": 1,
+      "role": "database administrator",
+      "location": "remote",
+      "results": 10,
+      "file": "9a30a9f34230d3ad.json"
+    },
+    "mobile developer remote::p1": {
+      "query": "mobile developer remote",
+      "page": 1,
+      "role": "mobile developer",
+      "location": "remote",
+      "results": 10,
+      "file": "c09881145cfbe230.json"
+    },
+    "entry level software engineer jobs in United States::p1": {
+      "query": "entry level software engineer jobs in United States",
+      "page": 1,
+      "role": "entry level software engineer",
+      "location": "United States",
+      "results": 10,
+      "file": "57c4ddbbb4f2c06a.json"
+    },
+    "junior software developer jobs in United States::p1": {
+      "query": "junior software developer jobs in United States",
+      "page": 1,
+      "role": "junior software developer",
+      "location": "United States",
+      "results": 10,
+      "file": "b7b865f0ba3a9f19.json"
+    },
+    "new grad software engineer jobs in United States::p1": {
+      "query": "new grad software engineer jobs in United States",
+      "page": 1,
+      "role": "new grad software engineer",
+      "location": "United States",
+      "results": 10,
+      "file": "726b8800d4a1bb41.json"
+    },
+    "full stack developer jobs in United States::p1": {
+      "query": "full stack developer jobs in United States",
+      "page": 1,
+      "role": "full stack developer",
+      "location": "United States",
+      "results": 10,
+      "file": "ee51f9e28e8a1d1c.json"
+    },
+    "front end developer jobs in United States::p1": {
+      "query": "front end developer jobs in United States",
+      "page": 1,
+      "role": "front end developer",
+      "location": "United States",
+      "results": 10,
+      "file": "cc4ec6cb2d98c66c.json"
+    },
+    "back end developer jobs in United States::p1": {
+      "query": "back end developer jobs in United States",
+      "page": 1,
+      "role": "back end developer",
+      "location": "United States",
+      "results": 10,
+      "file": "5bf7833667d3afaf.json"
+    },
+    "data analyst jobs in United States::p1": {
+      "query": "data analyst jobs in United States",
+      "page": 1,
+      "role": "data analyst",
+      "location": "United States",
+      "results": 10,
+      "file": "2a79915258844edd.json"
+    },
+    "junior data scientist jobs in United States::p1": {
+      "query": "junior data scientist jobs in United States",
+      "page": 1,
+      "role": "junior data scientist",
+      "location": "United States",
+      "results": 10,
+      "file": "10265de27311a0d8.json"
+    },
+    "data engineer jobs in United States::p1": {
+      "query": "data engineer jobs in United States",
+      "page": 1,
+      "role": "data engineer",
+      "location": "United States",
+      "results": 10,
+      "file": "e1c94768dd4f1222.json"
+    },
+    "machine learning engineer jobs in United States::p1": {
+      "query": "machine learning engineer jobs in United States",
+      "page": 1,
+      "role": "machine learning engineer",
+      "location": "United States",
+      "results": 10,
+      "file": "d415f87f440baf8e.json"
+    },
+    "cloud engineer jobs in United States::p1": {
+      "query": "cloud engineer jobs in United States",
+      "page": 1,
+      "role": "cloud engineer",
+      "location": "United States",
+      "results": 10,
+      "file": "4ea2959ae69cc7c4.json"
+    },
+    "devops engineer jobs in United States::p1": {
+      "query": "devops engineer jobs in United States",
+      "page": 1,
+      "role": "devops engineer",
+      "location": "United States",
+      "results": 10,
+      "file": "1801d026a21ae3b1.json"
+    },
+    "cybersecurity analyst jobs in United States::p1": {
+      "query": "cybersecurity analyst jobs in United States",
+      "page": 1,
+      "role": "cybersecurity analyst",
+      "location": "United States",
+      "results": 10,
+      "file": "118561bce416cd70.json"
+    },
+    "information security analyst jobs in United States::p1": {
+      "query": "information security analyst jobs in United States",
+      "page": 1,
+      "role": "information security analyst",
+      "location": "United States",
+      "results": 10,
+      "file": "af072a4ea8902390.json"
+    },
+    "IT support specialist jobs in United States::p1": {
+      "query": "IT support specialist jobs in United States",
+      "page": 1,
+      "role": "IT support specialist",
+      "location": "United States",
+      "results": 10,
+      "file": "6bc3f919762e3e1e.json"
+    },
+    "help desk technician jobs in United States::p1": {
+      "query": "help desk technician jobs in United States",
+      "page": 1,
+      "role": "help desk technician",
+      "location": "United States",
+      "results": 10,
+      "file": "60f7844252514a77.json"
+    },
+    "systems administrator jobs in United States::p1": {
+      "query": "systems administrator jobs in United States",
+      "page": 1,
+      "role": "systems administrator",
+      "location": "United States",
+      "results": 10,
+      "file": "d585e9255760ea87.json"
+    },
+    "network engineer jobs in United States::p1": {
+      "query": "network engineer jobs in United States",
+      "page": 1,
+      "role": "network engineer",
+      "location": "United States",
+      "results": 10,
+      "file": "18979bdca2438752.json"
+    },
+    "QA engineer jobs in United States::p1": {
+      "query": "QA engineer jobs in United States",
+      "page": 1,
+      "role": "QA engineer",
+      "location": "United States",
+      "results": 10,
+      "file": "4fb1e7f7fbd23731.json"
+    },
+    "business intelligence analyst jobs in United States::p1": {
+      "query": "business intelligence analyst jobs in United States",
+      "page": 1,
+      "role": "business intelligence analyst",
+      "location": "United States",
+      "results": 10,
+      "file": "ad2d7dac8ed7c5e9.json"
+    },
+    "database administrator jobs in United States::p1": {
+      "query": "database administrator jobs in United States",
+      "page": 1,
+      "role": "database administrator",
+      "location": "United States",
+      "results": 10,
+      "file": "9d2092db6e636285.json"
+    },
+    "mobile developer jobs in United States::p1": {
+      "query": "mobile developer jobs in United States",
+      "page": 1,
+      "role": "mobile developer",
+      "location": "United States",
+      "results": 10,
+      "file": "14a803cef7886d10.json"
+    },
+    "entry level software engineer jobs in New York, NY::p1": {
+      "query": "entry level software engineer jobs in New York, NY",
+      "page": 1,
+      "role": "entry level software engineer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "6c3e6d121d70f560.json"
+    },
+    "junior software developer jobs in New York, NY::p1": {
+      "query": "junior software developer jobs in New York, NY",
+      "page": 1,
+      "role": "junior software developer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "64349067009d691e.json"
+    },
+    "new grad software engineer jobs in New York, NY::p1": {
+      "query": "new grad software engineer jobs in New York, NY",
+      "page": 1,
+      "role": "new grad software engineer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "9d1fc883ab15e8db.json"
+    },
+    "full stack developer jobs in New York, NY::p1": {
+      "query": "full stack developer jobs in New York, NY",
+      "page": 1,
+      "role": "full stack developer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "633e118cc03ce2d4.json"
+    },
+    "front end developer jobs in New York, NY::p1": {
+      "query": "front end developer jobs in New York, NY",
+      "page": 1,
+      "role": "front end developer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "9fd863271d5173bf.json"
+    },
+    "back end developer jobs in New York, NY::p1": {
+      "query": "back end developer jobs in New York, NY",
+      "page": 1,
+      "role": "back end developer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "41ca477f6f568a7c.json"
+    },
+    "data analyst jobs in New York, NY::p1": {
+      "query": "data analyst jobs in New York, NY",
+      "page": 1,
+      "role": "data analyst",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "c3455803d2a17e1d.json"
+    },
+    "junior data scientist jobs in New York, NY::p1": {
+      "query": "junior data scientist jobs in New York, NY",
+      "page": 1,
+      "role": "junior data scientist",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "bba5f1ab790eb6e4.json"
+    },
+    "data engineer jobs in New York, NY::p1": {
+      "query": "data engineer jobs in New York, NY",
+      "page": 1,
+      "role": "data engineer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "0cdcb8b5161490ba.json"
+    },
+    "machine learning engineer jobs in New York, NY::p1": {
+      "query": "machine learning engineer jobs in New York, NY",
+      "page": 1,
+      "role": "machine learning engineer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "c9bbf1e91399551b.json"
+    },
+    "cloud engineer jobs in New York, NY::p1": {
+      "query": "cloud engineer jobs in New York, NY",
+      "page": 1,
+      "role": "cloud engineer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "632d6306ea31c82c.json"
+    },
+    "devops engineer jobs in New York, NY::p1": {
+      "query": "devops engineer jobs in New York, NY",
+      "page": 1,
+      "role": "devops engineer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "b10a46be5860a18d.json"
+    },
+    "cybersecurity analyst jobs in New York, NY::p1": {
+      "query": "cybersecurity analyst jobs in New York, NY",
+      "page": 1,
+      "role": "cybersecurity analyst",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "7002a6f6c3c76bfe.json"
+    },
+    "information security analyst jobs in New York, NY::p1": {
+      "query": "information security analyst jobs in New York, NY",
+      "page": 1,
+      "role": "information security analyst",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "25e1abf5ca07de33.json"
+    },
+    "IT support specialist jobs in New York, NY::p1": {
+      "query": "IT support specialist jobs in New York, NY",
+      "page": 1,
+      "role": "IT support specialist",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "065fee82c88fbb84.json"
+    },
+    "help desk technician jobs in New York, NY::p1": {
+      "query": "help desk technician jobs in New York, NY",
+      "page": 1,
+      "role": "help desk technician",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "d31d171b1091a8ac.json"
+    },
+    "systems administrator jobs in New York, NY::p1": {
+      "query": "systems administrator jobs in New York, NY",
+      "page": 1,
+      "role": "systems administrator",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "1ff55c6558ab6669.json"
+    },
+    "network engineer jobs in New York, NY::p1": {
+      "query": "network engineer jobs in New York, NY",
+      "page": 1,
+      "role": "network engineer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "1b25d77deb803054.json"
+    },
+    "QA engineer jobs in New York, NY::p1": {
+      "query": "QA engineer jobs in New York, NY",
+      "page": 1,
+      "role": "QA engineer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "eda66c8f5164e89e.json"
+    },
+    "business intelligence analyst jobs in New York, NY::p1": {
+      "query": "business intelligence analyst jobs in New York, NY",
+      "page": 1,
+      "role": "business intelligence analyst",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "b7e251826cee33bb.json"
+    },
+    "database administrator jobs in New York, NY::p1": {
+      "query": "database administrator jobs in New York, NY",
+      "page": 1,
+      "role": "database administrator",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "a1a84773cbccdc78.json"
+    },
+    "mobile developer jobs in New York, NY::p1": {
+      "query": "mobile developer jobs in New York, NY",
+      "page": 1,
+      "role": "mobile developer",
+      "location": "New York, NY",
+      "results": 10,
+      "file": "3a1a818157246231.json"
+    },
+    "entry level software engineer jobs in San Francisco, CA::p1": {
+      "query": "entry level software engineer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "entry level software engineer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "83a29dffb82ace21.json"
+    },
+    "junior software developer jobs in San Francisco, CA::p1": {
+      "query": "junior software developer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "junior software developer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "bbc09b57bd304aea.json"
+    },
+    "new grad software engineer jobs in San Francisco, CA::p1": {
+      "query": "new grad software engineer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "new grad software engineer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "283474aa31003f65.json"
+    },
+    "full stack developer jobs in San Francisco, CA::p1": {
+      "query": "full stack developer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "full stack developer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "a078866505342447.json"
+    },
+    "front end developer jobs in San Francisco, CA::p1": {
+      "query": "front end developer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "front end developer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "cea0407196c452f5.json"
+    },
+    "back end developer jobs in San Francisco, CA::p1": {
+      "query": "back end developer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "back end developer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "72b684395184d73d.json"
+    },
+    "data analyst jobs in San Francisco, CA::p1": {
+      "query": "data analyst jobs in San Francisco, CA",
+      "page": 1,
+      "role": "data analyst",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "d9d2e92aece3221e.json"
+    },
+    "junior data scientist jobs in San Francisco, CA::p1": {
+      "query": "junior data scientist jobs in San Francisco, CA",
+      "page": 1,
+      "role": "junior data scientist",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "dd1cad8905c67879.json"
+    },
+    "data engineer jobs in San Francisco, CA::p1": {
+      "query": "data engineer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "data engineer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "69f3209e084896bf.json"
+    },
+    "machine learning engineer jobs in San Francisco, CA::p1": {
+      "query": "machine learning engineer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "machine learning engineer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "a223a91f1c9ff456.json"
+    },
+    "cloud engineer jobs in San Francisco, CA::p1": {
+      "query": "cloud engineer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "cloud engineer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "fda42cf9fa12e401.json"
+    },
+    "devops engineer jobs in San Francisco, CA::p1": {
+      "query": "devops engineer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "devops engineer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "6a2cd52ab7d58bc8.json"
+    },
+    "cybersecurity analyst jobs in San Francisco, CA::p1": {
+      "query": "cybersecurity analyst jobs in San Francisco, CA",
+      "page": 1,
+      "role": "cybersecurity analyst",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "f74437c845d94bdd.json"
+    },
+    "information security analyst jobs in San Francisco, CA::p1": {
+      "query": "information security analyst jobs in San Francisco, CA",
+      "page": 1,
+      "role": "information security analyst",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "dac5f3354d9597a8.json"
+    },
+    "IT support specialist jobs in San Francisco, CA::p1": {
+      "query": "IT support specialist jobs in San Francisco, CA",
+      "page": 1,
+      "role": "IT support specialist",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "02daad74bd9f0702.json"
+    },
+    "help desk technician jobs in San Francisco, CA::p1": {
+      "query": "help desk technician jobs in San Francisco, CA",
+      "page": 1,
+      "role": "help desk technician",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "e88b692bb0e149d8.json"
+    },
+    "systems administrator jobs in San Francisco, CA::p1": {
+      "query": "systems administrator jobs in San Francisco, CA",
+      "page": 1,
+      "role": "systems administrator",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "97e66512800316a0.json"
+    },
+    "network engineer jobs in San Francisco, CA::p1": {
+      "query": "network engineer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "network engineer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "f3358523646ecf95.json"
+    },
+    "QA engineer jobs in San Francisco, CA::p1": {
+      "query": "QA engineer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "QA engineer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "c4dbd6a842daee77.json"
+    },
+    "business intelligence analyst jobs in San Francisco, CA::p1": {
+      "query": "business intelligence analyst jobs in San Francisco, CA",
+      "page": 1,
+      "role": "business intelligence analyst",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "ff74f3abf613ac25.json"
+    },
+    "database administrator jobs in San Francisco, CA::p1": {
+      "query": "database administrator jobs in San Francisco, CA",
+      "page": 1,
+      "role": "database administrator",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "449eb00a23f51617.json"
+    },
+    "mobile developer jobs in San Francisco, CA::p1": {
+      "query": "mobile developer jobs in San Francisco, CA",
+      "page": 1,
+      "role": "mobile developer",
+      "location": "San Francisco, CA",
+      "results": 10,
+      "file": "23416f1468678264.json"
+    },
+    "entry level software engineer jobs in Seattle, WA::p1": {
+      "query": "entry level software engineer jobs in Seattle, WA",
+      "page": 1,
+      "role": "entry level software engineer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "c4018454c080afeb.json"
+    },
+    "junior software developer jobs in Seattle, WA::p1": {
+      "query": "junior software developer jobs in Seattle, WA",
+      "page": 1,
+      "role": "junior software developer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "d9d4e4bd0d573fa0.json"
+    },
+    "new grad software engineer jobs in Seattle, WA::p1": {
+      "query": "new grad software engineer jobs in Seattle, WA",
+      "page": 1,
+      "role": "new grad software engineer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "109e6283d9d180fd.json"
+    },
+    "full stack developer jobs in Seattle, WA::p1": {
+      "query": "full stack developer jobs in Seattle, WA",
+      "page": 1,
+      "role": "full stack developer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "02befed77bb4b1ac.json"
+    },
+    "front end developer jobs in Seattle, WA::p1": {
+      "query": "front end developer jobs in Seattle, WA",
+      "page": 1,
+      "role": "front end developer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "b2063cdf5458c468.json"
+    },
+    "back end developer jobs in Seattle, WA::p1": {
+      "query": "back end developer jobs in Seattle, WA",
+      "page": 1,
+      "role": "back end developer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "4579e563cb53515d.json"
+    },
+    "data analyst jobs in Seattle, WA::p1": {
+      "query": "data analyst jobs in Seattle, WA",
+      "page": 1,
+      "role": "data analyst",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "cc47cb92383ba491.json"
+    },
+    "junior data scientist jobs in Seattle, WA::p1": {
+      "query": "junior data scientist jobs in Seattle, WA",
+      "page": 1,
+      "role": "junior data scientist",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "780ff959199baebe.json"
+    },
+    "data engineer jobs in Seattle, WA::p1": {
+      "query": "data engineer jobs in Seattle, WA",
+      "page": 1,
+      "role": "data engineer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "04a8a09c0b095a30.json"
+    },
+    "machine learning engineer jobs in Seattle, WA::p1": {
+      "query": "machine learning engineer jobs in Seattle, WA",
+      "page": 1,
+      "role": "machine learning engineer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "69b0e26c69207207.json"
+    },
+    "cloud engineer jobs in Seattle, WA::p1": {
+      "query": "cloud engineer jobs in Seattle, WA",
+      "page": 1,
+      "role": "cloud engineer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "fe98595d038df22a.json"
+    },
+    "devops engineer jobs in Seattle, WA::p1": {
+      "query": "devops engineer jobs in Seattle, WA",
+      "page": 1,
+      "role": "devops engineer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "a917acc0cf568c2c.json"
+    },
+    "cybersecurity analyst jobs in Seattle, WA::p1": {
+      "query": "cybersecurity analyst jobs in Seattle, WA",
+      "page": 1,
+      "role": "cybersecurity analyst",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "9092c313d6451649.json"
+    },
+    "information security analyst jobs in Seattle, WA::p1": {
+      "query": "information security analyst jobs in Seattle, WA",
+      "page": 1,
+      "role": "information security analyst",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "70cc2069334ae255.json"
+    },
+    "IT support specialist jobs in Seattle, WA::p1": {
+      "query": "IT support specialist jobs in Seattle, WA",
+      "page": 1,
+      "role": "IT support specialist",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "5973c2bb6ae80f09.json"
+    },
+    "help desk technician jobs in Seattle, WA::p1": {
+      "query": "help desk technician jobs in Seattle, WA",
+      "page": 1,
+      "role": "help desk technician",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "cf4bd49b843f6573.json"
+    },
+    "systems administrator jobs in Seattle, WA::p1": {
+      "query": "systems administrator jobs in Seattle, WA",
+      "page": 1,
+      "role": "systems administrator",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "510bf0999b87935c.json"
+    },
+    "network engineer jobs in Seattle, WA::p1": {
+      "query": "network engineer jobs in Seattle, WA",
+      "page": 1,
+      "role": "network engineer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "fe85b5f45386b51d.json"
+    },
+    "QA engineer jobs in Seattle, WA::p1": {
+      "query": "QA engineer jobs in Seattle, WA",
+      "page": 1,
+      "role": "QA engineer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "b001c759eae9fd77.json"
+    },
+    "business intelligence analyst jobs in Seattle, WA::p1": {
+      "query": "business intelligence analyst jobs in Seattle, WA",
+      "page": 1,
+      "role": "business intelligence analyst",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "647f45b0e41747d6.json"
+    },
+    "database administrator jobs in Seattle, WA::p1": {
+      "query": "database administrator jobs in Seattle, WA",
+      "page": 1,
+      "role": "database administrator",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "2904a9f3a03af40b.json"
+    },
+    "mobile developer jobs in Seattle, WA::p1": {
+      "query": "mobile developer jobs in Seattle, WA",
+      "page": 1,
+      "role": "mobile developer",
+      "location": "Seattle, WA",
+      "results": 10,
+      "file": "4f023568a45fbec7.json"
+    },
+    "entry level software engineer jobs in Austin, TX::p1": {
+      "query": "entry level software engineer jobs in Austin, TX",
+      "page": 1,
+      "role": "entry level software engineer",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "d815f597a4991255.json"
+    },
+    "junior software developer jobs in Austin, TX::p1": {
+      "query": "junior software developer jobs in Austin, TX",
+      "page": 1,
+      "role": "junior software developer",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "a4a610c79547d6d9.json"
+    },
+    "new grad software engineer jobs in Austin, TX::p1": {
+      "query": "new grad software engineer jobs in Austin, TX",
+      "page": 1,
+      "role": "new grad software engineer",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "e8542953b521e5cb.json"
+    },
+    "full stack developer jobs in Austin, TX::p1": {
+      "query": "full stack developer jobs in Austin, TX",
+      "page": 1,
+      "role": "full stack developer",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "2e6e2e28cc833050.json"
+    },
+    "front end developer jobs in Austin, TX::p1": {
+      "query": "front end developer jobs in Austin, TX",
+      "page": 1,
+      "role": "front end developer",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "7133b5bfda312b57.json"
+    },
+    "back end developer jobs in Austin, TX::p1": {
+      "query": "back end developer jobs in Austin, TX",
+      "page": 1,
+      "role": "back end developer",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "07226b16ebef173f.json"
+    },
+    "data analyst jobs in Austin, TX::p1": {
+      "query": "data analyst jobs in Austin, TX",
+      "page": 1,
+      "role": "data analyst",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "e6f7fb9d57cb474f.json"
+    },
+    "junior data scientist jobs in Austin, TX::p1": {
+      "query": "junior data scientist jobs in Austin, TX",
+      "page": 1,
+      "role": "junior data scientist",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "16faf8387cb2724d.json"
+    },
+    "data engineer jobs in Austin, TX::p1": {
+      "query": "data engineer jobs in Austin, TX",
+      "page": 1,
+      "role": "data engineer",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "68ca68dd959d1dcb.json"
+    },
+    "machine learning engineer jobs in Austin, TX::p1": {
+      "query": "machine learning engineer jobs in Austin, TX",
+      "page": 1,
+      "role": "machine learning engineer",
+      "location": "Austin, TX",
+      "results": 10,
+      "file": "47b4b42c92f3eea7.json"
+    }
+  }
+}

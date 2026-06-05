@@ -1,0 +1,513 @@
+{
+  "status": "OK",
+  "request_id": "bbd0b2bd-ae35-495e-853f-266255161667",
+  "parameters": {
+    "query": "developer jobs in chicago",
+    "date_posted": "all",
+    "country": "us",
+    "language": "en"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "PjUC9oZVlnm8rP7DAAAAAA==",
+        "job_title": "Associate Application Developer AWS 2026 - FutureNow - Chicago",
+        "employer_name": "IBM",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk2ihJ9ePBk6F-Q7Bdt7YG12s1HxIcu6k05Vys&s=0",
+        "employer_website": null,
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "Full-time",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.linkedin.com/jobs/view/associate-application-developer-aws-2026-futurenow-chicago-at-ibm-4405599796",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.linkedin.com/jobs/view/associate-application-developer-aws-2026-futurenow-chicago-at-ibm-4405599796",
+            "is_direct": false,
+            "publisher": "LinkedIn"
+          }
+        ],
+        "job_description": "Introduction\n\nAbout The Client Innovation Center (FutureNow)\n\nIBM Consulting Client Innovation Centers (FutureNow) are high-delivery, team-based environments where technologists work onsite to build real solutions for real clients.\n\nAt FutureNow, associates collaborate closely with peers and experienced practitioners to design, build, test, and support enterprise applications at scale. Our delivery centers are built for learning through delivery, combining hands-on project work, structured training, mentorship, and teamwork to help early-career professionals develop strong technical foundations and grow with confidence.\n\nThis role is ideal for individuals who enjoy problem-solving, learning quickly, and working in an in-person, collaborative delivery environment.\n\nYour Role And Responsibilities\n\nThe Associate Application Developer at IBM is an entry-level role focused on contributing to the development, testing, and support of application components within larger systems.\n\nThis role is not about knowing everything on day one. It is about having strong computer science fundamentals, demonstrated coding ability, and the curiosity and discipline to learn modern technologies in a professional delivery setting. Associates are expected to contribute to established delivery teams and take on greater responsibility as their skills and experience develop.\n\nAs An Associate Application Developer, You Will\n\n• Write, test, and debug application code with guidance from senior developers\n• Contribute to application features, services, or integrations within an established system architecture\n• Participate in Agile delivery activities such as stand-ups, sprint planning, and retrospectives\n• Collaborate with teammates to understand requirements and help implement technical solutions\n• Apply secure coding, quality, and performance best practices\n• Use version control and development tools to deliver code in a team-based environment\n• Continue building technical and professional skills through training, mentorship, and hands-on delivery experience\n\nWork Location & Onsite Expectations\n\nThis role is based in an IBM Client Innovation Center (FutureNow) and requires regular onsite presence at the assigned delivery center. Working onsite enables hands-on learning, real-time collaboration, and mentorship that support faster growth and stronger delivery outcomes.\n\nTravel may be required for up to 60% of the time or 3 days per week (home on weekends), based on project requirements.\n\nWork Authorization\n\n• IBM will not provide visa sponsorship for this position. Candidates must be eligible to work in the U.S. without current or future sponsorship requirements.\n\nEducation\n\n• Bachelor’s degree or equivalent practical experience in Computer Science, Engineering, or a related technical field\n\n(Candidates with other degrees will be considered if they demonstrate equivalent technical skills.)\n\nRequired Technical And Professional Expertise\n\nThese qualifications are essential for success in the role.\n\nTechnical Fundamentals\n\n• Strong understanding of computer science fundamentals, including:\n• Object-oriented programming concepts\n• Data structures\n• Algorithms\n• Demonstrated ability to write and debug code in at least one primary programming language, such as Java, C#, Python, or JavaScript/TypeScript\n\nApplied Development Experience\n\n• Hands-on coding experience through coursework, academic projects, internships, labs, or personal projects\n• Familiarity with core software development concepts such as debugging, testing, and version control\n\nProgramming Languages & Tools\n\n• Additional exposure to other languages, frameworks, or tools (e.g., Scala, SQL, Angular, React, or similar) through coursework or projects\n• Ability to apply core programming concepts across different languages and environments\n\nCandidates are not expected to be proficient in all listed technologies. Evaluation focuses on depth in at least one primary language and the ability to transfer foundational programming skills to new tools and frameworks.\n\nWeb, Cloud, and Platform Exposure\n\n• Exposure through coursework or projects to web development concepts, APIs, or application frameworks (e.g., RESTful services, Spring Boot, .NET Core, Flask/Django, Node.js, or similar)\n• Exposure to cloud computing concepts—such as deploying, hosting, or integrating applications—on platforms such as AWS, Azure, Google Cloud, or IBM Cloud, through coursework, labs, or self-study\n\nBusiness & Delivery Skills\n\n• Ability to translate business or functional requirements into technical solutions, with guidance from senior team members\n• Comfortable working onsite in a collaborative, team-based environment\n• Strong willingness to learn, accept feedback, and continuously improve\n\nPreferred Technical And Professional Experience\n\n• Experience working across both frontend and backend components in academic or project-based environments\n• Familiarity with Agile or Scrum team practices\n• Exposure to databases such as MySQL, PostgreSQL, SQL Server, Oracle, DB2, or MongoDB\n• Exposure to analytics or data tools such as SPSS, SAS, Tableau, Hadoop, or Spark, depending on practice needs\n• Experience collaborating with others on team-based software projects\n\nEmerging Technology Awareness\n\n• Familiarity with generative AI concepts, including basic modeling approaches, responsible use, and ethical considerations, gained through coursework, projects, or self-study",
+        "job_is_remote": false,
+        "job_posted_at": "2 days ago",
+        "job_posted_at_timestamp": 1777334400,
+        "job_posted_at_datetime_utc": "2026-04-28T00:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPjUC9oZVlnm8rP7DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      },
+      {
+        "job_id": "r0ZWpiwjm9R5lFxRAAAAAA==",
+        "job_title": "Lead Engineer Java",
+        "employer_name": "Biztec Global",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepiOEa1_Z2Ed6GZHmefspKw_kdQgu8IKagv36&s=0",
+        "employer_website": "https://www.biztecglobal.com",
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "Contractor",
+        "job_employment_types": [
+          "CONTRACTOR"
+        ],
+        "job_apply_link": "https://www.linkedin.com/jobs/view/lead-engineer-java-at-biztec-global-4407048307",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.linkedin.com/jobs/view/lead-engineer-java-at-biztec-global-4407048307",
+            "is_direct": false,
+            "publisher": "LinkedIn"
+          }
+        ],
+        "job_description": "We are hiring for a Lead Engineer Java. The ideal candidate will have strong expertise in Java and Apache Spark, with proven experience designing and operating large-scale batch data processing systems in cloud environments. Exposure to GCP is highly preferred, along with experience in other cloud platforms such as AWS or Azure.\n\nKey requirements include:\n• Strong hands-on experience in Java for backend and data processing systems\n• Deep expertise in Apache Spark (Java API) for building robust batch pipelines\n• Experience working with cloud-based data platforms, preferably GCP (BigQuery, Cloud Storage)\n• Solid understanding of data formats like Parquet, Avro, and JSON\n• Strong background in ETL/ELT frameworks, large-scale data processing, and performance optimization\n• Experience with CI/CD practices and secure data handling\n• Good understanding of data modeling, OLTP vs OLAP concepts, and layered data architecture\n• Ability to design scalable, reliable, and maintainable data platforms\n\nIn this role, you will:\n• Own and drive the architecture of Java and Spark-based data platforms\n• Act as a technical leader guiding design, best practices, and implementation\n• Collaborate with cross-functional teams including cloud, security, and enterprise architecture\n• Mentor engineering teams and contribute to overall platform maturity\n• Ensure performance, scalability, reliability, and cost efficiency of solutions.\n\nExperience with GenAI-driven development, observability practices, and Spark performance tuning will be an added advantage.",
+        "job_is_remote": false,
+        "job_posted_at": "21 hours ago",
+        "job_posted_at_timestamp": 1777485600,
+        "job_posted_at_datetime_utc": "2026-04-29T18:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dr0ZWpiwjm9R5lFxRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      },
+      {
+        "job_id": "aUxpjZGwAgf0g9DZAAAAAA==",
+        "job_title": "Principal Developer - IT",
+        "employer_name": "United Airlines",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://united.com&size=128",
+        "employer_website": "https://www.united.com",
+        "job_publisher": "United Airlines Jobs",
+        "job_employment_type": "Full-time",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.united.com/us/en/job/WHQ00026134/Principal-Developer-IT",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.united.com/us/en/job/WHQ00026134/Principal-Developer-IT",
+            "is_direct": false,
+            "publisher": "United Airlines Jobs"
+          }
+        ],
+        "job_description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.\n\nCome join us to create what’s next. Let’s define tomorrow, together.\n\nDescription\n\nExciting opportunity to be a part of a brand-new best-in-class Customer Data & Identity Technology team.\n\nWe are seeking a Principal Developer to help shape the future of our customer data, identity, and media technologies across United Airlines. This is a hands-on, individual contributor role—ideal for a builder who thrives at the intersection of data platforms, identity resolution, privacy, and digital experiences.\n\nAs our Principal Developer, you’ll design and develop high-scale, distributed platforms that power personalized, data-driven engagement using AWS technologies. You’ll roll up your sleeves to code, architect, and integrate solutions that span customer data platforms (CDP), identity graphs, and audience activation—on and off our properties. You’ll bring deep expertise in privacy, universal identities, ID graph, working knowledge of Agentic AI, Vector Embedding and integrating with various digital channels. while shaping solutions that meet enterprise and regulatory standards. You’ve built packaged, reusable software products before—platforms that can be designed once and deployed at scale. You’ll apply this mindset to building cloud-native, AWS-powered systems that support customer-facing and marketing activation use cases. You understand modern DXP architectures, AI/ML solutions, and high-throughput data flows—and you know how to turn them into products that deliver business value.\n\n· Lead and be hands-on across the full software lifecycle—from shaping requirements and technical specs to driving architecture, design, and Agile delivery—powering high-scale, high-reliability customer data and identity platforms that handle millions of customer interactions seamlessly\n\n· Act as technical force multiplier - set direction, define engineering standards, guide architectural strategy, and mentor top talent—while ensuring every line of code drives innovation, scalability, and industry-leading identity solutions. Continuously review and assess legacy processes and systems, identifying opportunities for modernization, process elimination, and efficiency improvements\n\n· Ensure compliance with privacy and data governance standards, balancing innovation with trust\n\n· Create packaged, reusable components that can scale across multiple teams and products and leverage AWS and cloud-native services to optimize scalability, performance, and resilience\n\n· Explore and embed AI/ML models into platforms for smarter identity matching, activation, and customer insights. Proposing and implementing innovative solutions to complex problems\n\n· Experienced with Generative AI, RAG and GraphRAG patterns\n\n· Design models to predict next-best-action, customer behavior, and customer relations by feeding unified CDP data\n\n· Collaborate with cross-functional teams including product teams, business, IT, and data engineering/analytics to drive alignment and achieve business objectives\nQualifications\n\nMinimum Requirements\n\n· Bachelor’s Degree in Information Technology, Software Engineering, Computer Science or related field\n\n· 7 - 10+ years working in an Information technology solutions architect role\n\n· 3 years experience working in customer identity management role\n\n· Deep expertise in Customer Data Platforms (CDP), Identity Resolution, Identity Graphs, Digital Identifiers, and Privacy\n\n· Strong understanding of audience activation, universal identities\n\n· Advanced knowledge of AWS cloud services and relevant technologies for system integration and enhancement.\n\n· Proficiency in relevant programming languages and technologies (Java/Python/.NET)\n\n· Proficiency in modern software engineering Deep expertise in Customer Data Platforms (CDP), Identity Resolution, Identity Graphs, Digital Identifiers, and Privacy\n\n· Advanced knowledge of AWS cloud services and relevant technologies for system integration and enhancement.\n\n· Proficient in understanding Stateful / Stateless model with Batch, Real time and Hybrid approach in Cache – CDP model\n\n· Proficiency in modern software engineering practices, architecture patterns, and integrations\n\n· Hands-on coding expertise across relevant languages, frameworks, and cloud stacks\n\n· Understanding of digital experience platforms and experiencing in integrating data-driven personalization\n\n· Experience designing and scaling solutions on AWS cloud-native products\n\n· Must be legally authorized to work in the U.S. without sponsorship; reliable, punctual attendance required\n\nPreferred\n\n· Master's degree in Computer Science or Software Engineering preferred\n\n· Experience in Airline or similar industry to understand booking, order, loyalty concepts\n\n· Expertise with AWS – Neptune Graph Db, Cloud ETL, Streams and event driven architecture\n\n· Familiarity with AI/ML-driven applications and how they transform customer engagement\n\n· Familiar with Graph query language like gremlin / cypher\n\nThe base pay range for this role is $140,600.00 to $183,108.00.\nThe base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an Equal Opportunity Employer. We recruit, employ, train, compensate, and promote without regard to race, color, religion, national origin, gender identity, sexual orientation, disability, age, veteran status, or any other protected category under applicable law. We provide reasonable accommodations for applicants and employees with disabilities. To request an accommodation, contact JobAccommodations@united.com",
+        "job_is_remote": false,
+        "job_posted_at": "15 hours ago",
+        "job_posted_at_timestamp": 1777507200,
+        "job_posted_at_datetime_utc": "2026-04-30T00:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": [
+          "dental_coverage",
+          "health_insurance",
+          "paid_time_off"
+        ],
+        "job_benefits_strings": [
+          "Dental insurance",
+          "Health insurance",
+          "Paid time off"
+        ],
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaUxpjZGwAgf0g9DZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      },
+      {
+        "job_id": "AYoUWyD6J5HWDapGAAAAAA==",
+        "job_title": "Developer",
+        "employer_name": "SAP",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYWXThCbdXsacCgM1_-Avv4JuSQIqH6CKl2PG&s=0",
+        "employer_website": null,
+        "job_publisher": "SAP Careers",
+        "job_employment_type": "Full-time",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://jobs.sap.com/job/Chicago-Developer-IL-60606/1380907333/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://jobs.sap.com/job/Chicago-Developer-IL-60606/1380907333/",
+            "is_direct": false,
+            "publisher": "SAP Careers"
+          }
+        ],
+        "job_description": "Requisition ID: 450595\nWork Area: Software-Design and Development\nExpected Travel: 0%\nCareer Status: Professional\nEmployment Type: Regular Full Time\nCareer Level: T2-2\nAdditional Locations:\n\nWe help the world run better\nAt SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.\n\n​\nWe win with inclusion\nSAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.\n\nSAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com. Requests for reasonable accommodation will be considered on a case-by-case basis.\n\nFor SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.\n\nQualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.\n\nCompensation Range Transparency: The annual base salary range for this position is $108,077 - $137,700. SAP believes the value of pay transparency contributes towards an honest and supportive culture and is a significant step toward demonstrating SAP’s commitment to pay equity. SAP provides the annualized compensation range inclusive of base salary and variable incentive target for the career level applicable to the posted role. The targeted combined range for this position is $108,077 - $153,000. The actual amount to be offered to the successful candidate will be within that range, dependent upon the key aspects of each case which may include education, skills, experience, scope of the role, location, etc. as determined through the selection process. Any SAP variable incentive includes a targeted dollar amount and any actual payout amount is dependent on company and personal performance. Please reference this link for a summary of SAP benefits and eligibility requirements: SAP North America Benefits.\n\nAI Usage in the Recruitment Process\n\nFor information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.\n\nPlease note that any violation of these guidelines may result in disqualification from the hiring process.\n\nAdditional Locations:\n\n​",
+        "job_is_remote": false,
+        "job_posted_at": "25 days ago",
+        "job_posted_at_timestamp": 1775347200,
+        "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": [
+          "health_insurance"
+        ],
+        "job_benefits_strings": [
+          "Health insurance"
+        ],
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAYoUWyD6J5HWDapGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      },
+      {
+        "job_id": "_EB5pZKZItD56RZ3AAAAAA==",
+        "job_title": "Entry Level Software Developer (Chicago)",
+        "employer_name": "SkillStorm",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://skillstorm.com&size=128",
+        "employer_website": "https://skillstorm.com",
+        "job_publisher": "SkillStorm",
+        "job_employment_type": "Full-time",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.skillstorm.com/jobs/entry-level-software-developer-42330",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.skillstorm.com/jobs/entry-level-software-developer-42330",
+            "is_direct": false,
+            "publisher": "SkillStorm"
+          }
+        ],
+        "job_description": "SkillStorm is actively seeking full-time Entry Level Software Developers for one our Fortune 100 clients. An ideal candidate is one with a strong technical mindset, exceptional problem-solving skills, and logical reasoning abilities. This is an on-site position.\n\nYou will spend 12 weeks collaborating in team-based settings, undertaking diverse, real-world projects to prepare for seamless integration into our clients' operations. Once training is complete, you will be deployed to our enterprise or government clients, ready to have an immediate impact on day one.\n\nEntry Level Software Developer Requirements:\n\n• Must possess a Bachelor's degree\n\n• Must have 9 months+ of TECHNICAL experience\n\n• Must be relocatable to multiple different locations and in office\n\n• Ability to earn a government security clearance\n\n• Possess a strong understanding of programming principles, data structures, algorithms, databases, and SQL, enabling the development of software solutions.\n\n• Experience with software development and programming using Java, C#, or similar object-oriented programming language.\n\n• Legally authorized to work in the U.S. under SkillStorm's W2; not a C2C position. EOE, including disability/vets.\n\n• Strong analytical and problem-solving skills along with a logical mindset to tackle complex challenges to develop effective and innovative solutions.\n\n• Demonstrate excellent verbal and written communication skills, facilitating clear and effective interactions with team members, stakeholders, and clients.\n\nEntry Level Software Developer Responsibilities\n\n• Develop new applications and modify existing applications using programming languages, platforms, frameworks, and tools used by our clients.\n\n• Develop well-structured, readable, and efficient code to solve specific tasks or improve existing applications. Adhere to coding standards and best practices to maintain high-quality software.\n\n• Identify, diagnose, and fix bugs in software applications, ensuring that the applications run smoothly and efficiently. Provide technical support and problem resolution related to software issues.\n\n• Engage in code review sessions with peers to ensure code quality, share knowledge, and learn from others. Provide constructive feedback and suggest improvements to optimize performance.\n\n• Assist in the deployment and testing of applications to production environments, ensuring that they meet performance benchmarks and are compatible with other system components.\n\n• Work closely with other departments, such as quality assurance, project management, and product management, to ensure that projects are delivered on time and meet predefined objectives. Communicate ongoing activities and results to business sponsors, stakeholders, and management.\n\nWhere SkillStorm stands out:\n\n• Competitive salary\n\n• Enterprise level technology training and certification\n\n• Opportunity to work for enterprise companies and government agencies\n\n• Health, Vision, Dental, and Life Insurance with 401K\n\n• Continuous mentorship and support\n\nAbout SkillStorm\n\nFounded in 2002, SkillStorm was built on the mission of accelerating careers in high-demand technologies. We design, build, and deploy Stormers from all backgrounds and experience levels in today’s in-demand technologies such as AWS, Salesforce, PEGA, ServiceNow, and Appian.\n\nWe are committed to hiring and training college graduates and veterans for high-growth technology careers with our enterprise and government clients. Through these dedicated efforts, we are able to build a reliable, exclusive pipeline of high-quality, U.S.-based tech talent with the skills and clearance levels required to support our client’s critical technology initiatives.",
+        "job_is_remote": false,
+        "job_posted_at": "3 days ago",
+        "job_posted_at_timestamp": 1777248000,
+        "job_posted_at_datetime_utc": "2026-04-27T00:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": [
+          "dental_coverage",
+          "health_insurance"
+        ],
+        "job_benefits_strings": [
+          "Dental insurance",
+          "Health insurance"
+        ],
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_EB5pZKZItD56RZ3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": "57.5K–72.5K a year",
+        "job_min_salary": 57500,
+        "job_max_salary": 72500,
+        "job_salary_period": "YEAR",
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      },
+      {
+        "job_id": "yy_LXTBSRPb2qgdyAAAAAA==",
+        "job_title": "Principal Software Development Engineer - Developer Productivity & Insights",
+        "employer_name": "Expedia Group",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbyH9PX-wtjhHId2w2VhCTM4EVi-x4qvEYWhDO&s=0",
+        "employer_website": "https://expediagroup.com",
+        "job_publisher": "Expedia Group",
+        "job_employment_type": "Full-time",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.expediagroup.com/job/principal-software-development-engineer-developer-productivity-amp-insights/chicago-il/R-105467/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.expediagroup.com/job/principal-software-development-engineer-developer-productivity-amp-insights/chicago-il/R-105467/",
+            "is_direct": false,
+            "publisher": "Expedia Group"
+          }
+        ],
+        "job_description": "Expedia Group brands power global travel for everyone, everywhere. We design cutting-edge tech to make travel smoother and more memorable, and we create groundbreaking solutions for our partners. Our diverse, vibrant, and welcoming community is essential in driving our success.\n\nWhy Join Us?\nTo shape the future of travel, people must come first. Guided by our Values and Leadership Agreements, we foster an open culture where everyone belongs, differences are celebrated and know that when one of us wins, we all win.\n\nWe provide a full benefits package, including exciting travel perks, generous time-off, parental leave, a flexible work model (with some pretty cool offices), and career development resources, all to fuel our employees' passion for travel and ensure a rewarding career journey. We’re building a more open world. Join us.\n\nIntroduction to Team\n\nOur Technology Team partners with teams across Expedia Group to create innovative products, services, and tools to deliver high-quality experiences for travelers, partners, and our employees. A singular technology platform powered by data and machine learning provides secure, differentiated, and personalized experiences that drive loyalty and traveler satisfaction.\n\nThis Principal Software Development Engineer role is part of the Developer Experience team, at the intersection of DevEx, data, and business strategy. The Developer Experience team provides tools, platforms, metrics, and enablement programs that reduce friction for engineers, streamline software delivery workflows, and improve developer satisfaction and productivity across Expedia Group.\n\nIn this role, you will focus on Developer Productivity & Insights—defining how we measure and understand engineering effectiveness, partnering with platform and product teams to synthesize signals across SDLC systems and translating those insights into clear narratives and recommendations for senior engineering leadership up to the CTO office. Rather than owning a single platform, you will drive change through influence: shaping our metrics strategy, evaluating how AI is changing developer workflows, and turning data into better tools, workflows, and outcomes for engineers across Expedia Group.\n\nIn this role, you will:\n\n• Define and evolve the end-to-end strategy, metrics framework, and data model for Developer Productivity & Insights, ensuring it aligns with industry best practices\n\n• Design and maintain robust data pipelines, schemas, and dashboards that integrate SDLC signals (Git, CI/CD, Jira, incident/change data, AI tooling) into a coherent, trusted view of engineering effectiveness.\n\n• Lead deep analytical investigations into developer productivity, flow, and quality, turning noisy telemetry into clear narratives, causal hypotheses, and concrete recommendations for senior engineering leadership.\n\n• Partner with DevEx, Platform, and product teams to experiment with changes to tools, workflows, and guardrails, measuring impact (before/after) and operationalizing practices that demonstrably improve outcomes.\n\n• Define, validate, and iterate productivity “north star” and leading indicators (e.g., repo readiness, power-user profiles, AI usage depth) and prune or simplify metrics that don’t drive decisions.\n\n• Act as the technical owner for engineering-wide insights tooling (e.g., LinearB/SEI platforms, internal analytics services), setting standards for data quality, instrumentation, and observability.\n\n• Collaborate closely with the CTO office and senior engineering leaders to shape AI-era productivity strategy, including how AI-assistive and agentic workflows are measured, governed, and reported.\n\n• Mentor engineers and technical leaders on using data to run better teams—from instrumenting services and repos to interpreting metrics, designing experiments, and avoiding misuse of vanity metrics.\n\nMinimum Qualifications:\n\n• Bachelor’s degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.\n\n• 10+ years of software development experience delivering and operating large-scale, distributed systems or platforms, including ownership of multiple services or a significant technical domain.\n\n• Experience leading developer relations or technical evangelism efforts at scale in enterprise or platform environments\n\n• Proven expertise in designing and implementing service architectures, including system design (LLD), API design, and data modeling, with strong proficiency in at least one modern programming language and associated ecosystems.\n\n• Demonstrated experience driving engineering best practices (testing, observability, performance, reliability, security) and leading complex initiatives from design through production operation.\n\n• Familiarity with AI-driven systems, tools, or workflows and applying AI/ML concepts to real world products, with the ability to safely integrate and operate AI/ML‑enabled components within existing services.\n\nPreferred Qualifications:\n\n• Experience with developer productivity, platform engineering, or horizontal core services teams, including ownership of CI/CD tooling and deploying code at scale.\n\n• Deep, hands-on understanding of the software development lifecycle (SDLC), CI/CD pipelines, and getting code safely to production in large, distributed systems.\n\n• Strong data science and analytics background; skilled at combining multiple data sources, applying analytical techniques, and turning findings into actionable insights for engineering leadership.\n\n• Hands-on experience measuring developer productivity using frameworks such as DORA or SPACE\n\n• Demonstrated executive presence with a track record of translating complex technical and data concepts into clear narratives and data stories for senior engineering and CTO-level leaders.\n\n• Practical experience with AI developer tools (e.g., Claude, GitHub Copilot, Cursor, Codex, Kiro), including evaluating adoption, usage depth, and impact on developer workflows and outcomes, with concrete examples of using AI in day-to-day work.\n\n• Experience building analytics and reporting that answer executive questions about AI adoption, productivity impact, and quality/reliability outcomes (e.g., monitoring and interpreting change failure rate and related metrics).\n\n• Understanding of causal inference methods to measure the impact of tooling and workflow changes and proficiency in SQL and modern data platform tooling (e.g., Spark, Databricks) for building and maintaining analytical pipelines at scale.\n\nThe total cash range for this position in Chicago is $214,500.00 to $300,000.00. Employees in this role have the potential to increase their pay up to $343,000.00, which is the top of the range, based on ongoing, demonstrated, and sustained performance in the role.\n\nThe total cash range for this position in Seattle is $231,000.00 to $323,500.00. Employees in this role have the potential to increase their pay up to $369,500.00, which is the top of the range, based on ongoing, demonstrated, and sustained performance in the role.\n\nThe total cash range for this position in Austin is $231,000.00 to $323,500.00. Employees in this role have the potential to increase their pay up to $369,500.00, which is the top of the range, based on ongoing, demonstrated, and sustained performance in the role.\n\nThe total cash range for this position in San Jose is $249,000.00 to $348,500.00. Employees in this role have the potential to increase their pay up to $398,500.00, which is the top of the range, based on ongoing, demonstrated, and sustained performance in the role.\n\nStarting pay for this role will vary based on multiple factors, including location, available budget, and an individual’s knowledge, skills, and experience. Pay ranges may be modified in the future.\n\nExpedia Group is proud to offer a wide range of benefits to support employees and their families, including medical/dental/vision, paid time off, and an Employee Assistance Program. To fuel each employee’s passion for travel, we offer a wellness & travel reimbursement, travel discounts, and an International Airlines Travel Agent (IATAN) membership. View our full list of benefits.\n\nAccommodation requests\nIf you need assistance with any part of the application or recruiting process due to a disability, or other physical or mental health conditions, please reach out to our Recruiting Accommodations Team through the Accommodation Request.\n\nWe are proud to be named as a Best Place to Work on Glassdoor in 2024 and be recognized for award-winning culture by organizations like Forbes, TIME, Disability:IN, and others.\n\nExpedia Group's family of brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®, Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®, CheapTickets®, Expedia Group™ Media Solutions, Expedia Local Expert®, CarRentals.com™, and Expedia Cruises™. © 2024 Expedia, Inc. All rights reserved. Trademarks and logos are the property of their respective owners. CST: 2029030-50\n\nEmployment opportunities and job offers at Expedia Group will always come from Expedia Group’s Talent Acquisition and hiring teams. Never provide sensitive, personal information to someone unless you’re confident who the recipient is. Expedia Group does not extend job offers via email or any other messaging tools to individuals with whom we have not made prior contact. Our email domain is @expediagroup.com. The official website to find and apply for job openings at Expedia Group is careers.expediagroup.com/jobs.\n\nExpedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. This employer participates in E-Verify. The employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization.",
+        "job_is_remote": false,
+        "job_posted_at": "7 days ago",
+        "job_posted_at_timestamp": 1776902400,
+        "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": [
+          "paid_time_off",
+          "health_insurance",
+          "dental_coverage"
+        ],
+        "job_benefits_strings": [
+          "Paid time off",
+          "Health insurance",
+          "Dental insurance"
+        ],
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dyy_LXTBSRPb2qgdyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": "214K–343K a year",
+        "job_min_salary": 214000,
+        "job_max_salary": 343000,
+        "job_salary_period": "YEAR",
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      },
+      {
+        "job_id": "AuGINiNHcvTl8zCTAAAAAA==",
+        "job_title": "Senior Software Dev (5+ years exp.)",
+        "employer_name": "Edge Focus",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNRv7ApvUgKXHZRsvdy76dSFybWc_vRc0alUX&s=0",
+        "employer_website": "https://www.edgefocuspartners.com",
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "Full-time",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.linkedin.com/jobs/view/senior-software-dev-5%2B-years-exp-at-edge-focus-4407558478",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.linkedin.com/jobs/view/senior-software-dev-5%2B-years-exp-at-edge-focus-4407558478",
+            "is_direct": false,
+            "publisher": "LinkedIn"
+          }
+        ],
+        "job_description": "< Back to Careers\n\nSenior Software Dev (5+ years exp.)\n\nUNITED STATES\n\nBase salary: $160,000 – $250,000 USD\n\nRemote\n\nAbout Us\n\nFounded in 2017, Edge Focus (EF) is a tech-driven investment firm specializing in modern U.S. consumer credit markets. Our proprietary machine-learning models drive predictive analytics for personal and auto loan investments, fund management, credit-as-a-service solutions, and portfolio monitoring tools.\n\nEF is a deeply collaborative, mentorship-oriented engineering and research environment where the teams move quickly, share knowledge openly, and solve complex problems together. Engineers work closely with quantitative researchers and firm leadership ensuring high ownership, rapid learning, and direct impact on live strategies. At EF, we pride ourselves on fostering an inclusive, collaborative culture where people genuinely enjoy working together and where work-life balance is both valued and respected.\n\nWhy Join Us\n\nWe are scaling our technology team to expand fintech partnerships and optimize data processing, modeling, and execution pipelines. If you’re passionate about fintech, high-performance computing, and AI/ML-driven solutions, this role gives you room to build, innovate, and grow in a high-trust, high-impact environment.\n\nWhat You’ll Do\n• Develop scalable data ingestion and processing pipelines\n• Build ML-driven financial modeling and analytics tools\n• Provide guidance and mentorship to Software Developers\n• Optimize forecasting algorithms with the quantitative research team\n• Integrate with fintech platforms and financial institutions\n• Contribute to system design, architecture, and performance optimization\n• Partner cross-functionally to support new product and research initiatives\n\nWhat We’re Looking For\n• 5+ years of software development experience\n• Degree in Computer Science (or similar technical field)\n• Strong Python skills in production environments\n• Excellent problem-solving, communication, and collaboration skills\n• Self directed with an investigative mindset\n• Bonus: Proven mentorship with junior engineers. Familiarity with financial modeling or structured finance\n• Comfort wearing multiple hats and working in an outcome driven environment\n\nWhat We Offer\n• Compensation: Base salary of $160,000 – $250,000 USD with eligibility for a performance-based bonus\n• Medical, dental, and vision insurance along with enrollment in the company’s retirement saving plan\n• Flexible paid time off and a remote-friendly work arrangement\n• High-growth fintech environment with cutting-edge technology solutions\n• Exposure to consumer credit markets and investment strategies\n• Direct collaboration with leadership, senior engineers, and researchers\n• Join a firm managing over $1B in capital and growing fast\n\nApply",
+        "job_is_remote": false,
+        "job_posted_at": "3 days ago",
+        "job_posted_at_timestamp": 1777248000,
+        "job_posted_at_datetime_utc": "2026-04-27T00:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": [
+          "paid_time_off",
+          "dental_coverage",
+          "health_insurance"
+        ],
+        "job_benefits_strings": [
+          "Paid time off",
+          "Dental insurance",
+          "Health insurance"
+        ],
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAuGINiNHcvTl8zCTAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      },
+      {
+        "job_id": "LoeNeV6zhlta7x7EAAAAAA==",
+        "job_title": "Senior Developer - ERP Solutions, Information Technology",
+        "employer_name": "United Airlines",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://united.com&size=128",
+        "employer_website": "https://www.united.com",
+        "job_publisher": "United Airlines Jobs",
+        "job_employment_type": "Full-time",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.united.com/us/en/job/WHQ00026045/Senior-Developer-ERP-Solutions-Information-Technology",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.united.com/us/en/job/WHQ00026045/Senior-Developer-ERP-Solutions-Information-Technology",
+            "is_direct": false,
+            "publisher": "United Airlines Jobs"
+          }
+        ],
+        "job_description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.\n\nCome join us to create what’s next. Let’s define tomorrow, together.\n\nDescription\n\nThe Senior Developer will play a hands-on role in supporting and enhancing enterprise finance systems across both Oracle ERP (Fusion) and future ERP platforms. This position serves as a techno-functional lead, directly responsible for designing, building, and supporting solutions that align with critical finance transformation initiatives—such as Chart of Accounts (COA) redesign, Fixed Assets implementation, and Procure-to-Pay modernization.\n\nThe developer will be deeply involved in interface development, data validation, custom extensions (FRICE), and functional configurations across Financials and Procurement modules. This includes working with Forms, Reports, Interfaces, Conversions, Extensions (FRICE), Personalizations, Descriptive Flexfields (DFFs), interface tables, and data migration tools.\n\nThis role requires strong knowledge of both the functional finance processes and the technical architecture of Oracle ERP (EBS and Fusion), particularly in Oracle Financials and Procure to Pay Modules.\n\nThe ideal candidate brings a unique ability to own both the business logic and the technical implementation, ensuring that system solutions are both technically sound and functionally aligned to finance objectives\n\n· Leads on the designs, development, coding, testing and debugging of software applications/systems to meet the specifications. Monitors system performance, troubleshoot issues, and implement optimization strategies to enhance the efficiency and effectiveness of applications.\n\n· Partners and collaborates with cross-functional teams to understand business requirements and deliver solutions. Manages the design, architecture and build phases aimed at producing high quality deliverables. Owns the software documentation and user manuals.\n\n· Evaluating and integrating new technologies into existing development practices as well as Maintaining, updating, and improving existing software.\n\n· Managers and participates in software design meetings and analyze user needs to determine technical requirements. Collaborate & lead tech teams consisting of employees & vendor company contractors in planning and execution, serving as an technology leader\n\n· Analyze code to find causes of errors and revise programs as needed\nQualifications\n\nMinimum Requirements\n\n· Bachelor's degree Bachlor's Degree\n\n· Mandatory, 4+ years of hands-on experience with Oracle ERP, or similar ERP solutions including technical and functional responsibilities\n• Mandatory 4+ years involvement in end-to-end Oracle Fusion ERP implementations, especially in finance and procurement domains\n\n· Proven experience with Chart of Accounts redesign, Fixed Assets implementation, and Procure-to-Pay modules on Oracle EBS and Oracle Cloud\n\n· Strong background in building and supporting customizations (Forms, Reports, Interfaces, Conversions, Extensions – FRICE), DFFs, interface tables, and BI Publisher reports\n\n· Demonstrated ability to support data migration and mapping efforts using Oracle Data Hub\n\n· Experience working in environments with coexisting legacy and cloud ERP platforms\n\n· Experience with PL/SQL, SOA Suite, OIC, and REST/SOAP APIs\n\n· Exposure to Agile delivery frameworks and sprint-based project execution\n\n· Problem-Solving: Ability to identify, troubleshoot, and resolve issues related to system integration and performance.\n\n· Excellent communication skills, with the ability to work across business and technical teams\n\nPreferred Requirements\n\n· Computer Science, Computer Engineering, Electrical Engineering, Management Information Systems or related field\n\n· Experience with Oracle Procurement Cloud functional setups and configurations\n\n· Familiarity with DevOps pipelines for ERP environments or related automation tools\n\n· Understanding of finance data structures and experience working closely with finance users on solution design\n\nThe base pay range for this role is $109,820.00 to $142,936.00.\nThe base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an Equal Opportunity Employer. We recruit, employ, train, compensate, and promote without regard to race, color, religion, national origin, gender identity, sexual orientation, disability, age, veteran status, or any other protected category under applicable law. We provide reasonable accommodations for applicants and employees with disabilities. To request an accommodation, contact JobAccommodations@united.com",
+        "job_is_remote": false,
+        "job_posted_at": "15 hours ago",
+        "job_posted_at_timestamp": 1777507200,
+        "job_posted_at_datetime_utc": "2026-04-30T00:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": [
+          "health_insurance",
+          "dental_coverage",
+          "paid_time_off"
+        ],
+        "job_benefits_strings": [
+          "Health insurance",
+          "Dental insurance",
+          "Paid time off"
+        ],
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLoeNeV6zhlta7x7EAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      },
+      {
+        "job_id": "swy2i9S8NQqQTR4hAAAAAA==",
+        "job_title": "Mainframe Developer",
+        "employer_name": "Cognizant",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAy6d2VwTDpwkFshCnfeYgZxJ-qGjJNyZhc5x&s=0",
+        "employer_website": "https://www.cognizant.com",
+        "job_publisher": "Indeed",
+        "job_employment_type": "Full-time",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.indeed.com/viewjob?jk=df97dc9d5b8837f6",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.indeed.com/viewjob?jk=df97dc9d5b8837f6",
+            "is_direct": false,
+            "publisher": "Indeed"
+          }
+        ],
+        "job_description": "00068677161\n\n• Date published Apr 24 2026\n\n• Location Chicago,IL-200 N laSalleSt / United States\n\n• Job category Digital\n\n• Work model Hybrid\n\nMainframe Development\n\nThis role involves leading technical initiatives focused on Mainframe Development Enhancement Modernization in COBOL Db2 JCL Python. and DevOps tools for mainframe systems. The candidate will work on hybrid projects leveraging their expertise in Mainframe and other technologies to deliver impactful solutions.\n\nImportant Disclaimers:\n\n**Please note: A few of our roles may require in-person interviews at Cognizant offices or client locations, depending on project or client needs.**\n\n**Candidate must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future**\n\nIn this role, you will:\n\n• Focused on Mainframe Development Enhancement Modernization in COBOL Db2 JCL Python. and DevOps tools for mainframe systems.\n\n• Apply advanced knowledge of DB2 and Cobol to develop robust database-driven applications that meet business requirements.\n\n• Lead the design and implementation of APIzation solutions using IBM DVM for z/OS and Open Legacy to modernize legacy systems effectively.\n\n• Utilize FILEAID and SPUFI for efficient data management and analysis ensuring accuracy and reliability in project deliverables.\n\n• Develop and maintain JCL scripts to automate batch processing and improve operational efficiency.\n\n• Implement and manage SCLM IDZ Github for version control and deployment processes ensuring consistency across environments.\n\n• Work with CICS and VSAM to optimize transaction processing and data storage solutions for high-performance applications.\n\n• Conduct thorough testing and debugging of mainframe utilities to ensure system stability and reliability.\n\n• Collaborate with stakeholders to gather requirements and translate them into technical specifications for project execution.\n\n• Provide mentorship and guidance to junior team members fostering a culture of continuous learning and improvement.\n\n• Ensure compliance with company standards and industry best practices in all technical implementations.\n\nWork model: Hybrid\n\nLocation: Chicago, Illinois\n\nWhat you need to have to be considered:\n\n• Demonstrate proficiency in MF Db2 Optimization.\n\n• Have hands-on experience with DevOps suites from Microfocus IBM and Compuware for streamlined development workflows.\n\n• Exhibit advanced skills in Mainframe CoolGen/CA Gen 10 for application development and maintenance.\n\n• Show proficiency in FILEAID and SPUFI for efficient data management and analysis.\n\n• Be skilled in JCL scripting to automate batch processing and improve operational efficiency.\n\n• Have experience with Changeman for version control and deployment processes.\n\n• Possess strong knowledge of CICS and VSAM for transaction processing and data storage optimization.\n\n• Demonstrate expertise in DB2 and Cobol for developing database-driven applications.\n\n• Be familiar with mainframe utilities for system stability and reliability.\n\n• Have excellent communication skills to collaborate effectively with stakeholders and team members.\n\n• Show a commitment to adhering to company standards and industry best practices in all technical implementations.\n\n• Exhibit a proactive approach to problem-solving and continuous improvement.\n\nSalary and Other Compensation:\n\nThe annual salary for this position is between $50K – $93,500 K depending on experience and other qualifications of the successful candidate.\n\nThis position is also eligible for Cognizant’s discretionary annual incentive program, based on performance and subject to the terms of Cognizant’s applicable plans.\n\nBenefits: Cognizant offers the following benefits for this position, subject to applicable eligibility requirements:\n\n• Medical/Dental/Vision/Life Insurance\n\n• Paid holidays plus Paid Time Off\n\n• 401(k) plan and contributions\n\n• Long-term/Short-term Disability\n\n• Paid Parental Leave\n\n• Employee Stock Purchase Plan\n\nDisclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law\n\nThe Cognizant community:\n\nWe are a high caliber team who appreciate and support one another. Our people uphold an energetic, collaborative and inclusive workplace where everyone can thrive.\n\n• Cognizant is a global community with more than 300,000 associates around the world.\n\n• We don’t just dream of a better way – we make it happen.\n\n• We take care of our people, clients, company, communities and climate by doing what’s right.\n\n• We foster an innovative environment where you can build the career path that’s right for you.\n\nAbout us:\n\nCognizant (Nasdaq: CTSH) is an AI Builder and technology services provider, building the bridge between AI investment and enterprise value by building full-stack AI solutions for our clients. Our deep industry, process and engineering expertise enables us to build an organization’s unique context into technology systems that amplify human potential, realize tangible returns and keep global enterprises ahead in a fast-changing world. See how at www.cognizant.com or @cognizant.\n\nCognizant is an equal opportunity employer. Your application and candidacy will not be considered based on race, color, sex, religion, creed, sexual orientation, gender identity, national origin, disability, genetic information, pregnancy, veteran status or any other characteristic protected by federal, state or local laws.\n\nIf you have a disability that requires reasonable accommodation to search for a job opening or submit an application, please email CareersIndia2@cognizant.com with your request and contact information.\n\nDisclaimer:\nCompensation information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law.\n\nApplicants may be required to attend interviews in person or by video conference. In addition, candidates may be required to present their current state or government issued ID during each interview.\n\nd",
+        "job_is_remote": false,
+        "job_posted_at": "6 days ago",
+        "job_posted_at_timestamp": 1776988800,
+        "job_posted_at_datetime_utc": "2026-04-24T00:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": [
+          "paid_time_off",
+          "dental_coverage",
+          "health_insurance"
+        ],
+        "job_benefits_strings": [
+          "Paid time off",
+          "Dental insurance",
+          "Health insurance"
+        ],
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dswy2i9S8NQqQTR4hAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": "50K–93.5K a year",
+        "job_min_salary": 50000,
+        "job_max_salary": 93500,
+        "job_salary_period": "YEAR",
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      },
+      {
+        "job_id": "GLA8czDfU_KzjnxbAAAAAA==",
+        "job_title": "Senior Developer - .Net/AWS/MongoDB",
+        "employer_name": "United Airlines",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://united.com&size=128",
+        "employer_website": "https://www.united.com",
+        "job_publisher": "United Airlines Jobs",
+        "job_employment_type": "Full-time",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.united.com/us/en/job/WHQ00025851/Senior-Developer-Net-AWS-MongoDB",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.united.com/us/en/job/WHQ00025851/Senior-Developer-Net-AWS-MongoDB",
+            "is_direct": false,
+            "publisher": "United Airlines Jobs"
+          }
+        ],
+        "job_description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.\n\nCome join us to create what’s next. Let’s define tomorrow, together.\n\nDescription\n\nExciting opportunity to join best-in-class digital technology team at United Airlines as a Senior Developer, where you will design and develop high-performance applications using AWS cloud services. This role focuses on leveraging AWS technologies to create scalable, secure and efficient solutions. Your work will ensure that our software products meet the highest standards of performance and reliability, driving business success and innovation. The ability to collaborate with cross-functional teams are essential for success in this role.\n\nThis is a Chicago based, hybrid position and candidates must be eligible to work for any employer.\n\n· Translate product strategy and requirements into suitable, maintainable and scalable solution design according to existing architecture guardrails\n\n· Have a holistic view of how an engineering solution adds value and ties into the defined business outcomes; provide options for how the solution could be evolved to provide even more value\n\n· Use an experimental mindset to identify, evaluate and recommend alternative design options which take target environment, performance security requirements and existing systems into account\n\n· Build and deliver simple, effective solutions that fully meet user needs, functional and compliance requirements, and quality standards. Ensure on-time delivery while continuously eliminating waste, including unnecessary documentation and inefficient methodologies\n\n· Drive testing and deployment of software solutions, including ensuring automated testing to ensure solution quality\n\n· Identify and share best practices with other teams as well as produce necessary documentation\nQualifications\n\nMinimum Requirements:\n\n· Bachelor's degree in computer science, Engineering, or related field\n\n· 4+ years of experience with .Net core and AWS development\n\n· Strong hands-on experience designing and building scalable microservices and distributed systems\n\n· Experience with cloud-native development, ideally on AWS (Lambda, API Gateway, DynamoDB, S3, ECS/EKS, Step Functions)\n\n· Good understanding of RESTful APIs, JSON schemas, versioning, and API-first design\n\n· Experience with event-driven architectures and streaming technologies (Kafka/Kinesis)\n\n· Familiarity with graph databases (AWS Neptune, Neo4j) or a strong willingness to learn\n\n· Solid knowledge of CI/CD pipelines, automated testing, Git, and DevOps best practices\n\n· Understanding of data quality, validation, and enrichment patterns in real-time systems\n\n· Excellent problem-solving skills and attention to detail\n\n· Strong communication and collaboration skills\n\nPreferred Requirements:\n\n· Previous experience working on customer data, data platforms, customer 360 profile service, or graph-based system is a strong plus\n\n· Experience with Python\n\nThe base pay range for this role is $109,820.00 to $142,936.00.\nThe base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an Equal Opportunity Employer. We recruit, employ, train, compensate, and promote without regard to race, color, religion, national origin, gender identity, sexual orientation, disability, age, veteran status, or any other protected category under applicable law. We provide reasonable accommodations for applicants and employees with disabilities. To request an accommodation, contact JobAccommodations@united.com",
+        "job_is_remote": false,
+        "job_posted_at": "15 hours ago",
+        "job_posted_at_timestamp": 1777507200,
+        "job_posted_at_datetime_utc": "2026-04-30T00:00:00.000Z",
+        "job_location": "Chicago, IL",
+        "job_city": "Chicago",
+        "job_state": "Illinois",
+        "job_country": "US",
+        "job_latitude": 41.88325,
+        "job_longitude": -87.6323879,
+        "job_benefits": [
+          "dental_coverage",
+          "health_insurance",
+          "paid_time_off"
+        ],
+        "job_benefits_strings": [
+          "Dental insurance",
+          "Health insurance",
+          "Paid time off"
+        ],
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGLA8czDfU_KzjnxbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null
+      }
+    ],
+    "cursor": "EowECswDQU1uMy15UVRNb21sMUszTzBSVTlwWTNVSXJTSmQ2Y3pTM3dPQlFUckxpbF9QeVRFOTFjal9Vb2xucXE4Ql91U2Q3Q2FkQ1Zob1dUNVU5YU9jT0xwdVkyVzZNNi16aEpybEhmWFdkaE5rOFZRRHFCXzVSQWczbHJUR3hoWVRBOGRTdUV4WVlCdW15aXZsVEhXZHlsX1puWTZudWMxNjRsRWJVREZtdUQ4TW5iaVpnUmtHNDEyUVZlVF9CVkJyNHAzUE1EWElKMUwzT1R5TFhIMHZyam5BSW5uRzVSVDB3Ty0yaExWa2xfbTZ3NzlvMmw1bFRQNGIzYS01clNDSG1CaWV0NmhjMk1FMGoyZlJHbjhEd1BkV1pkZDN4Q1BtRlRqUy1DbW1OekRWQlU2ZzgwZ0xoNXhjcGZLNWg4TS0xMG5uSVpNdGc3UHlZb280UUJLTWlFMkxid0M5OHM0RGpPeXFDM1lOZXNVbU4ydnVDbFhCcFEzTktDTzB1ZmpMWTdqbWFuOXJpdV81V0s1Y2ZnNHRyb21SQ0lhRVo5VVIteEVVZUJMV20xemYwdkZrSFJWX0VuSk4xUzdYNWQ4a0xRSXdvRlA5WmNGZGQyeBIXd25IemFickxPT2lNcnVFUGhmTHhrQVkaIkFKS0xGbUlQZDA1VklHQVdrUnBTSl9OYmFlRG0zcmJkUmc"
+  }
+}

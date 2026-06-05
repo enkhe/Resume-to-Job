@@ -1,9 +1,23 @@
+# Python
 __pycache__/
 *.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtualenvs
 .venv/
 venv/
+
+# Local environment / secrets  (NEVER commit real keys — this repo is public)
 .env
+.env.*
+!.env.example
+
+# Local SQLite runtime DB (the committed catalog lives under data/jobs_master.csv intentionally)
 data/jobs.db
-testing/output/*.json
-testing/output/*.db
-testing/test_sqlite.db
+
+# Editor / OS noise
+.DS_Store
+.idea/
+.vscode/

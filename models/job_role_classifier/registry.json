@@ -1,0 +1,19 @@
+{
+  "versions": [
+    {
+      "version": "v1",
+      "trained_at": "2026-06-05T08:22:46.717481+00:00",
+      "accuracy": 0.8894,
+      "f1_macro": 0.8774,
+      "data_fingerprint": "273cfdd204045884"
+    },
+    {
+      "version": "v2",
+      "trained_at": "2026-06-05T08:54:23.888947+00:00",
+      "accuracy": 0.8894,
+      "f1_macro": 0.8774,
+      "data_fingerprint": "273cfdd204045884"
+    }
+  ],
+  "latest": "v2"
+}

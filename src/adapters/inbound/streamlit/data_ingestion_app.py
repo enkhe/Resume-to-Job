@@ -6,6 +6,8 @@ import pandas as pd
 
 from src.adapters.inbound.api_provider.api_client import fetch_jobs
 from src.adapters.inbound.api_provider.api_job_parser import ApiJobParser
+from src.adapters.inbound.api_provider.jsearch_client import search_jobs
+from src.adapters.inbound.api_provider.jsearch_job_parser import JSearchJobParser
 from src.adapters.inbound.file_upload.dataframe_job_parser import DataFrameJobParser
 from src.adapters.outbound.embedding.sentence_transformers_adapter import (
     SentenceTransformersEmbeddingAdapter,
@@ -15,6 +17,7 @@ from src.domain.entities.Job import Job
 from src.ports.output.job_repository import JobRepositoryPort
 from pathlib import Path
 from src.adapters.outbound.persistence.sqlite_job_repository import SQLiteJobRepository
+from src.adapters.outbound.persistence.repository_factory import get_job_repository
 
 
 class FakeJobRepository(JobRepositoryPort):
@@ -87,16 +90,19 @@ def run_demo() -> None:
 def streamlit_app():
     import streamlit as st
 
-    st.title("Ingest Jobs (demo)")
-    st.caption("Data route: CSV upload or API endpoint -> parser -> list[Job] -> batches of 200 -> repository")
+    st.title("Data Ingestion")
+    st.caption("Data route: CSV / generic API / JSearch -> parser -> list[Job] -> embed -> batches of 200 -> shared DB (Postgres/SQLite)")
 
-    source = st.radio("Choose the ingestion source", ["CSV upload", "API endpoint"], horizontal=True)
+    source = st.radio(
+        "Choose the ingestion source",
+        ["CSV upload", "API endpoint", "JSearch (IT jobs)"],
+        horizontal=True,
+    )
 
     parser = DataFrameJobParser()
     api_parser = ApiJobParser()
-    db_path = Path(os.getenv("JOB_DB_PATH", "data/jobs.db"))
-    db_path.parent.mkdir(parents=True, exist_ok=True)
-    repo = SQLiteJobRepository(db_path)
+    jsearch_parser = JSearchJobParser()
+    repo = get_job_repository()
     embedding_service = SentenceTransformersEmbeddingAdapter()
     usecase = IngestJobsBatchUseCase(repository=repo, batch_size=200, embedding_service=embedding_service)
 
@@ -127,6 +133,66 @@ def streamlit_app():
             st.write(f"2. Parsed table -> `{type(dataframe).__name__}`")
             st.write(f"3. Domain objects -> `{type(jobs).__name__}`")
             st.write(f"4. Batch size -> `200` jobs")
+            if errors:
+                st.warning(f"Discarded {len(errors)} row(s) missing required fields, including description.")
+                st.table(pd.DataFrame(errors))
+    elif source == "JSearch (IT jobs)":
+        st.caption(
+            "Fetch IT jobs from JSearch (RapidAPI). The free plan is rate-limited "
+            "(~200 requests/month, ~10 jobs each), so **each fetch below spends 1 request**. "
+            "For bulk collection use `testing/scripts/harvest_jobs_jsearch.py`."
+        )
+        js_key = st.text_input(
+            "RapidAPI key",
+            value=os.getenv("JSEARCH_API_KEY", os.getenv("RAPIDAPI_KEY", "")),
+            type="password",
+            help="x-rapidapi-key for jsearch.p.rapidapi.com. Leave blank to use JSEARCH_API_KEY from the environment.",
+        )
+        js_query = st.text_input(
+            "Search query",
+            value="entry level software engineer",
+            help="e.g. 'data analyst', 'cybersecurity analyst', 'junior developer'.",
+        )
+        col_a, col_b = st.columns(2)
+        js_location = col_a.text_input("Location", value="United States",
+                                       help="City/state/country, or 'remote'.")
+        js_pages = col_b.number_input("Pages to fetch (1 page = 1 request = ~10 jobs)",
+                                      min_value=1, max_value=5, value=1, step=1)
+
+        if not js_query:
+            st.info("Enter a search query to fetch IT jobs from JSearch.")
+        elif st.button("Fetch JSearch jobs"):
+            query = js_query if js_location.strip().lower() in ("", "remote") else f"{js_query} jobs in {js_location}"
+            if js_location.strip().lower() == "remote":
+                query = f"{js_query} remote"
+            all_records: list[dict] = []
+            spent = 0
+            remaining = None
+            try:
+                for page in range(1, int(js_pages) + 1):
+                    resp = search_jobs(query, page=page, num_pages=1, api_key=js_key or None)
+                    spent += 1
+                    remaining = resp.requests_remaining
+                    all_records.extend(jsearch_parser.to_normalized_records(resp.payload))
+            except Exception as exc:  # noqa: BLE001 - surface API/quota errors in the UI
+                st.error(f"JSearch request failed after {spent} request(s): {exc}")
+                all_records = all_records  # keep whatever we already got
+
+            records = jsearch_parser.dedupe_by_id(all_records)
+            jobs, errors = parser.to_jobs_with_errors_from_records(records)
+            st.session_state.loaded_jobs = jobs
+            st.session_state.loaded_preview = pd.DataFrame(records)
+            st.session_state.loaded_source = "JSearch (IT jobs)"
+            st.session_state.loaded_errors = errors
+
+            st.markdown("### Type transitions")
+            st.write(f"1. Query -> `{query}`")
+            st.write(f"2. Requests spent -> `{spent}` (API quota remaining: `{remaining}`)")
+            st.write(f"3. Unique records (deduped by job_id) -> `{len(records)}`")
+            st.write(f"4. Valid domain objects -> `{len(jobs)}`")
+            st.write("5. Persist batch size on Ingest -> `200` jobs per SQLite write batch")
+            if remaining is not None:
+                st.info(f"JSearch quota remaining this month: **{remaining}**.")
             if errors:
                 st.warning(f"Discarded {len(errors)} row(s) missing required fields, including description.")
                 st.table(pd.DataFrame(errors))

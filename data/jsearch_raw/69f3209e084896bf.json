@@ -1,0 +1,490 @@
+{
+    "status": "OK",
+    "request_id": "1a3b3858-65d9-4054-ae94-035e4d7a8fe9",
+    "parameters": {
+        "query": "data engineer jobs in San Francisco, CA",
+        "page": 1,
+        "num_pages": 1,
+        "date_posted": "all",
+        "country": "us",
+        "language": "en"
+    },
+    "data": [
+        {
+            "job_id": "aRhi4_ORPbPqMaIRAAAAAA==",
+            "job_title": "Data Engineer Lead - Only Local to San Francisco, CA (Hybrid)",
+            "employer_name": "Lightning Minds Inc.",
+            "employer_logo": null,
+            "employer_website": null,
+            "job_publisher": "Dice",
+            "job_employment_type": "Contractor",
+            "job_employment_types": [
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://www.dice.com/job-detail/654914f6-0b15-48ee-beca-e8c29d15ccb6",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://www.dice.com/job-detail/654914f6-0b15-48ee-beca-e8c29d15ccb6",
+                    "is_direct": false,
+                    "publisher": "Dice"
+                }
+            ],
+            "job_description": "Data Engineer Lead - SFO, CA\n\nLong Term Contract\n\nCandidate must be in SFO, CA\n\nSummary:\n• 10+ years of experience in Data Engineering, Integrations, Data Modeling, Data Profiling, Data Quality, Orchestration\n• Hands on expert experience in the AWS Data Engineering Tech Stack: S3, Glue, Airflow, SQL, Python, PySpark, Lambda, RDS, Redshift, EMR, and API Gateway\n• Detailed experience with data modeling and data integration (ETL/ELT)\n• Data Product knowledge and experience\n\nRole Job Description:-\n• 10+ years of experience in Data Engineering, Integrations, Data Modeling, Data Profiling, Data Quality, Orchestration\n• Hands on expert experience in the AWS Data Engineering Tech Stack: S3, Glue, Airflow, SQL, Python, PySpark, Lambda, RDS, Redshift, EMR, and API Gateway\n• Detailed experience with data modeling and data integration (ETL/ELT)\n• Data Product knowledge and experience\n• Pharma Commerical and Digital Marketing data experince will be plus\n• Ability to lead and work through cross-functional teams\n• Ability to lead and delivery project end to end working with Tech PM\n• Good communication and teamwork skills",
+            "job_is_remote": false,
+            "job_posted_at": "3 days ago",
+            "job_posted_at_timestamp": 1780358400,
+            "job_posted_at_datetime_utc": "2026-06-02T00:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": null,
+            "job_benefits_strings": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaRhi4_ORPbPqMaIRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        },
+        {
+            "job_id": "egKTdNOOSr5_h6c4AAAAAA==",
+            "job_title": "Sr. Data Engineer - (NO H-1B or C2C)",
+            "employer_name": "TechLink Resources, Inc",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFCuwTRPXs-WIebj3EF7HpedmH4En6-XeQZOp&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/sr-data-engineer-no-h-1b-or-c2c-at-techlink-resources-inc-4424274354",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/sr-data-engineer-no-h-1b-or-c2c-at-techlink-resources-inc-4424274354",
+                    "is_direct": false,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "Sr. Data Engineer - Open to either East Coast or West Coast (Must be close to Lis Angeles, SF, NYC or Seattle) - 4x a week onsite is required.\n\nResponsibilities:\n\n• Contribute to the design and growth of our Data Products and Data Warehouses around Acquisition marketing spend and Acquisition campaign Performance data.\n\n• Develop and optimize performant database, data model, integration and ETL in RDBMS and Big Data environments\n\n• Collaborate with Data Product Managers, Data Architects and Data Engineers to design, implement, and deliver successful data solutions\n\n• Help define technical requirements and implementation details for the underlying data warehouse and data marts\n\n• Help integrate and maintain campaign marketing data coming from marketing vendor platforms via an integration tool.\n\n• Maintain detailed documentation of your work and changes to support data quality and data governance\n\n• Ensure high operational efficiency and quality of your solutions to meet SLAs and support commitment to the customers\n\n• Be an active participant and advocate of agile/scrum practice to ensure health and process improvements for your team\n\nBasic Qualifications:\n\n• Over 6 years of experience in Data Engineering, with a strong foundation in designing and implementing scalable data solutions.\n\n• Proficient in data modeling, architecture, and building robust ETL pipelines to support analytical and operational use cases.\n\n• Hands-on expertise with SQL, Snowflake, RDBMS, Spark, Python, Databricks, and Airflow for data processing and orchestration.\n\n• Experienced in AWS services including S3 and supporting reporting and downstream data workflows.\n\n• Familiarity with Marketing Intelligence tools like Datorama/Improvado/FiveTran for integrating, harmonizing, and visualizing marketing data across platforms.\n\n• Experience with Scrum and Agile methodologies\n\n• Bachelor’s or master’s degree in computer science, Information Systems or related field\n\nRequired Education: Bachelor's Degree\n\nAdditional Information: Open to either East Coast or West Coast (Must be close to Hub) - 4x a week onsite is required.",
+            "job_is_remote": false,
+            "job_posted_at": "1 day ago",
+            "job_posted_at_timestamp": 1780531200,
+            "job_posted_at_datetime_utc": "2026-06-04T00:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": null,
+            "job_benefits_strings": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DegKTdNOOSr5_h6c4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        },
+        {
+            "job_id": "bflIkGRr8Gwx7aOyAAAAAA==",
+            "job_title": "GCP Data Engineer",
+            "employer_name": "Recutify Inc.",
+            "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://recutify.com&size=128",
+            "employer_website": "https://recutify.com",
+            "job_publisher": "Indeed",
+            "job_employment_type": "Contractor",
+            "job_employment_types": [
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=20490252a7282e6d",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://www.indeed.com/viewjob?jk=20490252a7282e6d",
+                    "is_direct": false,
+                    "publisher": "Indeed"
+                }
+            ],
+            "job_description": "Role : GCP Data Engineer\n\nLocation : Concord, CA (Onsite)\n\nHire Type : Contract\n\nJob Description\n\nWhat You'll Do (Responsibilities):\n\nArchitect & Design: Design and implement robust, scalable, and cost-effective data solutions on Google Cloud, serving as the target architecture for migrated workloads.\n\nDevelop Reusable Frameworks & Accelerators: Design, build, and maintain reusable frameworks, templates, and code libraries to standardize and accelerate data engineering work.\n\nThis includes creating boilerplate pipeline structures, generic data validation modules, and automated deployment patterns that other engineers will leverage.\n\nMigrate & Modernize: Lead the hands-on migration of data and processes from on-premises systems like Teradata and Hadoop to Google Cloud services, with a primary focus on BigQuery, Google Cloud Storage (GCS), Dataflow, and Dataproc. ETL/ELT Transformation: Analyze, deconstruct, and translate complex legacy ETL logic from tools like Informatica and Teradata BTEQ/Stored Procedures into modern, cloud-native pipelines, leveraging the frameworks/tooling you help create.\n\nPipeline Development: Build and automate new data pipelines for batch and streaming data using Python, SQL, and GCP's core services, ensuring all new development contributes to and benefits from our shared engineering frameworks.\n\nPerformance & Cost Optimization: Proactively optimize BigQuery performance through effective partitioning, clustering, and query tuning.\n\nData Validation & Governance: Develop and implement rigorous data validation frameworks to ensure data integrity and accuracy post-migration. Collaborate with governance teams to apply data security, lineage, and cataloging using tools like Google Cloud Data Catalog and Dataplex.\n\nCollaboration & Mentorship: Work closely with on-premises data experts, business analysts, and other engineers to understand requirements, ensure a smooth transition, and act as a subject matter expert and mentor for GCP and internal framework best practices.\n\nRequired Qualifications (Must-Haves):\n\nProfessional Experience: 5+ years of professional experience in a data engineering role, with a proven track record of building and maintaining large-scale data systems.\n\nFramework Design & Development: Demonstrable experience designing, building, and promoting the adoption of reusable data engineering frameworks such as Ingestion, Transformation, Validation etc\n\nOn-Premises Data Warehouse/Big Data Expertise: Deep, hands-on experience with at least one of the following on-premise ecosystems:\n\nTeradata: Strong understanding of the Teradata architecture, utilities (BTEQ,\n\nTPT, FastLoad/MultiLoad), and advanced SQL/Stored Procedure development.\n\nHadoop: Experience with the Hadoop ecosystem (HDFS, YARN, Hive) and hands-on proficiency with PySpark for large-scale data processing.\n\nEnterprise ETL: Demonstrable experience designing and building complex workflows in an enterprise ETL tool like Informatica PowerCenter.\n\nGoogle Cloud Platform (GCP) Proficiency: Demonstrable hands-on experience designing, building, and operating solutions with a comprehensive set of GCP data services, including:\n\nCore Data Processing & Warehousing: Google BigQuery (including data modeling, performance tuning, cost management), Google Cloud Storage\n\n(GCS), Cloud Dataflow, and Cloud Dataproc. Orchestration & Event-Driven Architecture: Cloud Composer (Managed\n\nAirflow) for complex workflow orchestration, and Pub/Sub and Cloud Functions for building streaming and event-driven data pipelines.\n\nData Governance & Management: Practical experience using Dataplex for unified data management, security, and governance across data lakes and warehouses.\n\nCore Engineering & Migration Skills:\n\nExpert-level proficiency in SQL, including complex joins, window functions, and\n\nperformance tuning across different database engines.\n\nStrong programming skills in Python, applying software engineering best practices.\n\nHands-on experience with Google's migration assessment tools (e.g.,\n\nBigQuery Migration Service, Database Migration Service) to analyze on-premise workloads and accelerate migration.\n\nDeep understanding of data warehousing concepts, ETL/ELT patterns, data modeling, and database design.\n\nPreferred Qualifications (Nice-to-Haves):\n\nProven Migration Experience: Direct, hands-on experience successfully completing at\n\nleast one large-scale on-premise (Teradata, Hadoop, etc.) to Google Cloud Platform.\n\nCertifications: A Google Cloud Professional Data Engineer certification is a plus.",
+            "job_is_remote": false,
+            "job_posted_at": "2 days ago",
+            "job_posted_at_timestamp": 1780444800,
+            "job_posted_at_datetime_utc": "2026-06-03T00:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": null,
+            "job_benefits_strings": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbflIkGRr8Gwx7aOyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": "45–50 an hour",
+            "job_min_salary": 45,
+            "job_max_salary": 50,
+            "job_salary_period": "HOUR",
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        },
+        {
+            "job_id": "Ds4xZIucxQdkwv21AAAAAA==",
+            "job_title": "Senior Director, Data Architecture and Engineering",
+            "employer_name": "Autodesk",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5OwD1krRduySzJYAg1rU2bwzXOrKaPLPV5rgN&s=0",
+            "employer_website": "https://www.autodesk.com",
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/senior-director-data-architecture-and-engineering-at-autodesk-4424442186",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/senior-director-data-architecture-and-engineering-at-autodesk-4424442186",
+                    "is_direct": false,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "Job Requisition ID #\n\n26WD98776\n\nPosition Overview\n\nAutodesk is shaping the future of the Design and Make by building a global, high-throughput Product Data platform that powers design, collaboration, and lifecycle workflows across multiple domains. If you are a hands-on technologist who enjoys leading teams solving petabyte scale problems and building the next generation of knowledge retrieval systems, this may be an opportunity for you.\n\nProduct Data is Autodesk's transactional data platform that manages Design and Make Data generated by millions of customers across three industries – Architecture, Engineering and Construction (AEC), Manufacturing (MFG) and Media & Entertainment (M&E). The platform is a collection of capabilities and highly scalable data services such as document management, fine grained permissions, stream processing, data pipelines, search, granular data management, and cross industry interoperability. We are also evolving our search capabilities to the next generation of Knowledge Representation and Retrieval systems with semantic search, GraphRAG and Context Graphs.\n\nReporting to the VP Product Data, we are seeking a Senior Director of Data Architecture and Engineering to own the architectural vision of the overall data platform, while leading the engineering execution of our advanced knowledge retrieval systems. In this role you will lead a team of senior technical leaders (software architects, distinguished engineers) and engineering leaders to help scale and grow the platform. You will interface with architecture and engineering leaders across Autodesk to unify complex, historically fragmented design and make data across Autodesk’s ecosystem into a coherent, scalable platform.\n\nThe successful candidate is an experienced engineering leader with a passion for large-scale systems and building high-performing teams. They combine deep technical expertise, cutting edge knowledge of distributed real-time data management systems with innovative engineering practices, and leadership presence to drive alignment and execution across product, platform, and ecosystem teams.\n\nAs this role oversees a global organization, you will work across multiple time zones and travel up to 15% for team offsites and internal and customer events. The role can be based in the US or Canada remote, hybrid, or in person in one of our offices.\n\nResponsibilities\n\n• Lead the Architectural vision for the Product Data platform\n• Drive complex architectural decisions and technology innovation in OLTP systems infrastructure\n• Build and evolve the knowledge retrieval engineering organization to deliver predictable execution, high quality, and operational excellence\n• Hire, mentor, and retain the next generation of engineering leaders\n• Serve as a senior leader within the Product Data leadership team, shaping organizational strategy, prioritization, execution, and innovation across the portfolio\n• Partner with product, platform, and ecosystem teams to drive adoption of the Product Data platform across Autodesk’s product portfolio, influencing architecture and data standards across the company and taking ownership of critical cross-product initiatives\n• Define the long-term evolution of Autodesk’s domain data model and influence broader technical strategy around domain data, interoperability, and platform architecture\n• Stay at the forefront of emerging technologies and engineering practices, identifying and driving adoption of innovations that materially improve platform capabilities and developer productivity\n\nMinimum Qualifications\n\n• 15+ years of software engineering experience, with 5+ years leading architects, managers and senior leaders across global teams\n• Demonstrated ability to adopt and scale AI-driven engineering practices to accelerate delivery and improve developer effectiveness\n• Proven track record of owning and delivering large-scale, complex systems or platforms with measurable business impact\n• Experience building and scaling high-performing engineering organizations, including org design and leadership development\n• Established history of driving operational excellence (quality, reliability, scalability, and execution predictability)\n• Deep expertise in distributed systems, databases, cloud platforms, high-scale transactional environments, knowledge retrieval systems and modern software architecture patterns\n• Exceptional communication and influencing skills, with the ability to align product, platform, external, and executive stakeholders\n• Ability to understand complex business requirements and quickly and iteratively execute against them in a highly matrixed environment\n• Systems thinker with a strong desire to understand how complex systems work\n\nPreferred Qualifications\n\n• Experience building or leading domain-specific data platforms (e.g., AEC, BIM, GIS, manufacturing, or other complex object models)\n• Experience with schema evolution, versioning, and backward compatibility in long-lived, large-scale systems\n• Understanding of how operational product data interfaces with analytics, AI, and downstream data platforms\n• Experience influencing industry standards, data interoperability frameworks, or open ecosystems\n• Track record of driving platform adoption across large, federated organizations\n• Strong grasp on object-oriented design principles and enterprise domain/data modeling\n• Advanced degree in computer science, engineering, or related field\n\nLearn More\n\nAbout Autodesk\n\nWelcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.\n\nWe take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.\n\nWhen you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!\n\nBenefits\n\nFrom health and financial benefits to time away and everyday wellness, we give Autodeskers the best, so they can do their best work. Learn more about our benefits in the U.S. by visiting https://benefits.autodesk.com/\n\nSalary transparency\n\nSalary is one part of Autodesk’s competitive compensation package. For U.S.-based roles, we expect a starting base salary between $192,000 and $344,850. Offers are based on the candidate’s experience and geographic location, and may exceed this range. In addition to base salaries, our compensation package may include annual cash bonuses, commissions for sales roles, stock grants, and a comprehensive benefits package.\n\nEqual Employment Opportunity\n\nAt Autodesk, we're building a diverse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender, gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified applicants regardless of criminal histories, consistent with applicable law.\n\nDiversity & Belonging\n\nWe take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: https://www.autodesk.com/company/diversity-and-belonging\n\nAre you an existing contractor or consultant with Autodesk?\n\nPlease search for open jobs and apply internally (not on this external site).",
+            "job_is_remote": false,
+            "job_posted_at": "15 hours ago",
+            "job_posted_at_timestamp": 1780588800,
+            "job_posted_at_datetime_utc": "2026-06-04T16:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": [
+                "health_insurance"
+            ],
+            "job_benefits_strings": [
+                "Health insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDs4xZIucxQdkwv21AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        },
+        {
+            "job_id": "oKz2GEa5gJtL3GsWAAAAAA==",
+            "job_title": "Sr. Data Engineer - Growth and Marketing Platform",
+            "employer_name": "Uber",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5P-JaTkhLgASUEADjcI9_THrw2ftb9JylguhC&s=0",
+            "employer_website": "https://www.uber.com",
+            "job_publisher": "Uber",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.uber.com/global/en/careers/list/159435",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://www.uber.com/global/en/careers/list/159435",
+                    "is_direct": false,
+                    "publisher": "Uber"
+                }
+            ],
+            "job_description": "Uber's mission is to reimagine the way the world moves for the better. Here, bold ideas create real-world impact, challenges drive growth, and speed fuels progress. What moves us, moves the world - let's move it forward, together.\n\nUber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.\n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.\n\nFor San Francisco, CA-based roles: The base salary range for this role is USD$202,000 per year - USD$224,000 per year.\n\nFor Sunnyvale, CA-based roles: The base salary range for this role is USD$202,000 per year - USD$224,000 per year.\n\nFor all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits. More details can be found at the following link https://jobs.uber.com/en/benefits.\n\nUber's mission is to reimagine the way the world moves for the better. Here, bold ideas create real-world impact, challenges drive growth, and speed fuels progress. What moves us, moves the world - let's move it forward, together.\n\nUber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.\n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.",
+            "job_is_remote": false,
+            "job_posted_at": "4 days ago",
+            "job_posted_at_timestamp": 1780272000,
+            "job_posted_at_datetime_utc": "2026-06-01T00:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": [
+                "health_insurance"
+            ],
+            "job_benefits_strings": [
+                "Health insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoKz2GEa5gJtL3GsWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        },
+        {
+            "job_id": "G8UuKjIEj0zaAXcbAAAAAA==",
+            "job_title": "Data Engineer - Customer Success Analytics",
+            "employer_name": "Protingent",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpXbMixZrgcjUDPZpE3cdwRwsrB37Gu5DRGxZ&s=0",
+            "employer_website": "https://www.protingent.com",
+            "job_publisher": "Protingent",
+            "job_employment_type": "Contractor",
+            "job_employment_types": [
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://jobs.protingent.com/jb/Data-Engineer-Customer-Success-Analytics-Jobs-in-San-Francisco-California/14098235",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://jobs.protingent.com/jb/Data-Engineer-Customer-Success-Analytics-Jobs-in-San-Francisco-California/14098235",
+                    "is_direct": false,
+                    "publisher": "Protingent"
+                }
+            ],
+            "job_description": "Job Title: Data Engineer - Customer Success Analytics\n\nPosition Description: Protingent Staffing has an exciting contract Data Engineer - Customer Success Analytics with our client located in San Francisco Bay Area.\n\nJob Description:\n\n• The Data Engineer will own and strengthen the data foundation that powers Customer Success, our subscription offering. This role is responsible for building and maintaining scalable data pipelines, improving and restructuring Snowflake architecture, and ensuring subscription data is clean, trusted, and analytics-ready.\n\n• You will play a critical role in resolving recurring data inconsistencies surfaced in Gainsight and Tableau by developing well-modeled, reliable datasets that serve as a clear source of truth.\n\n• This is a hands-on role focused on data ownership, modeling, quality, and performance — enabling scalable automation and future AI-driven solutions across Customer Success.\n\nJob Responsibilities:\n\n• Design, build, and maintain ETL/ELT pipelines from Salesforce, Gainsight, and other operational systems into Snowflake.\n\n• Audit, normalize, and restructure existing Snowflake tables and views to improve clarity, consistency, and performance.\n\n• Develop clean, analytics-ready data models that power Tableau dashboards, Gainsight workflows, and executive reporting.\n\n• Translate business logic (ARR, renewals, churn, consumption, health scoring) into structured, documented data definitions.\n\n• Investigate and resolve root causes of reported data discrepancies and implement durable fixes.\n\n• Optimize query performance, warehouse utilization, and overall Snowflake efficiency.\n\n• Implement data validation, monitoring, and quality controls to improve trust in reporting.\n\n• Document data lineage, transformations, and definitions to improve transparency and governance.\n\n• Partner closely with Senior Data Analysts, Customer Success, and Ops to ensure scalable, reusable datasets.\n\n• Prepare structured datasets that support automation initiatives and future AI use cases.\n\nJob Qualifications:\n\n• Bachelor's degree in Computer Science, Computer Engineering, Information Systems, or equivalent practical experience\n\n• 2+ years of experience with SQL, ETL, data modeling, and at least one programming language (e.g., Python, C++, C#, Scala or others.)\n\n• 2+ years of experience in designing, developing, and maintaining robust data models from structured and unstructured sources\n\n• Experience proactively identifying opportunities to improve ETL & dashboard performance and cost\n\n• 2+ years of experience where the primary responsibility involves working with data. This could include roles such as data analyst, data scientist, data engineer, analytics engineer, or similar positions\n\n• Experience with data warehouse technologies (Snowflake, BigQuery, Spark, etc) and data build tools such as DBT.\n\n• Experience in Git/GitHub and branching methodologies, code review tools, CI tools, JIRA, Confluence.\n\n• Strong understanding of data modeling principles (normalization, dimensional modeling, schema design).\n\n• Experience proactively identifying and improving data pipeline or dashboard performance.\n\n• Strong analytical and problem-solving skills, including experience investigating and resolving data inconsistencies.\n\nNice To Have:\n\n• Experience working with Salesforce data models (Accounts, Opportunities, Contracts, Subscriptions).\n\n• Experience with Gainsight, Tableau, and SnapLogic.\n\n• Experience supporting SaaS or subscription-based business models (ARR, renewals, consumption).\n\n• Exposure to automation, predictive modeling, or AI-related data preparation.\n\n• Experience implementing data governance, access controls, and documentation standards.\n\n• Experience with server-side languages like TypeScript/Node.JS/Python/Kotlin\n\n• Experience with RESTful API design.\n\nJob Details:\n\n• Job Type: Contract\n\n• Pay Range: $50 - $60 an hour\n\n• Location: San Francisco Bay Area (Remote).\n\nBenefits Package: Protingent offers competitive salaries, insurance plan options (HDHP plan or POS plan), education/certification reimbursement, pre-tax commuter benefits, Paid Time Off (PTO), and an administered 401k plan.\n\nAbout Protingent: Protingent is an Award-Winning provider of top-tier Engineering and IT talent, trusted by companies at the forefront of innovation — from Software and Aerospace to AI, Clean Tech, Medical Devices, and Connected Technologies. We’re passionate about making a positive impact by connecting exceptional talent with meaningful opportunities and helping our clients build the future.",
+            "job_is_remote": false,
+            "job_posted_at": "4 days ago",
+            "job_posted_at_timestamp": 1780272000,
+            "job_posted_at_datetime_utc": "2026-06-01T00:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": [
+                "dental_coverage",
+                "paid_time_off",
+                "health_insurance"
+            ],
+            "job_benefits_strings": [
+                "Dental insurance",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DG8UuKjIEj0zaAXcbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        },
+        {
+            "job_id": "NEtrh06pIYIoMkNvAAAAAA==",
+            "job_title": "Data Engineer, Go-To-Market",
+            "employer_name": "Notion",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgrxP2v700TNABYajwUjfl4KnJ-TDRIfo-RhT&s=0",
+            "employer_website": "https://www.notion.com",
+            "job_publisher": "Built In San Francisco",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.builtinsf.com/job/data-engineer-go-market/7799708",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://www.builtinsf.com/job/data-engineer-go-market/7799708",
+                    "is_direct": false,
+                    "publisher": "Built In San Francisco"
+                }
+            ],
+            "job_description": "Who We Are\n\nNotion is the collaborative AI workspace where teams and agents think together. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work feels faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, humanity, and building things that last — not just shipping the next feature, but setting a standard for how modern teams (with humans and agents working together) think and execute.\n\nAbout The Role\n\nAs Notion continues to grow rapidly, we're seeking talented data engineers to join our team and help us build the foundational datasets and pipelines to support our go-to-market strategies. You'll be at the forefront of integrating our product and business systems to create rock solid processes that will propel us forward. If you're passionate about analytics use cases, data models, and solving complex data problems, then we want you on our team.\n\nWhat You'll Achieve\n• You'll build core datasets to serve as the sources of truth for Notion’s marketing and sales reporting, integrating data to and from business systems data and Notion’s product.\n• You’ll partner closely with our Marketing, Sales, Revenue Operations, Business Technology, Business Intelligence and Data Science teams to support critical reporting and analysis needs.\n• You'll design, build and monitor pipelines that meet today's requirements but can gracefully scale with our growing data size.\n• You’ll help democratize access to high quality data across go-to-market teams, Staff, and the entire company.\n\nSkills You'll Need to Bring\n• You've spent 3+ years as a data engineer building core datasets and supporting business verticals as needed, ideally in product and business areas with high data volumes. You are passionate about analytics use cases, data models and solving complex data problems.\n• You have experience working with both Marketing and Sales datasets at a SaaS company, and have built integrations with business systems like Salesforce, Netsuite, Marketo, Zendesk, etc.\n• You are a self-starter and continuously gather and synthesize high-impact needs from business partners, design and implementing the appropriate technical solutions, and effectively communicating about deliverables, timelines and tradeoffs\n• You have hands-on experience shipping scalable data solutions in the cloud (e.g AWS, GCP, Azure), across multiple data stores (e.g Snowflake, Redshift, Hive, SQL/NoSQL, columnar storage formats) and methodologies (e.g dimensional modeling, data marts, star/snowflake schemas)\n• You are a SQL expert. You intimately understand aggregation functions, window functions, UDFs, self-joins, partitioning and clustering approaches to run correct and highly-performant queries\n• You are comfortable with object-oriented programming paradigms (e.g Python, Java, Scala)\n• You don’t need to be an AI expert, but you’re curious and willing to adopt AI tools to work smarter and deliver better results\n\nNice to Haves\n• You have hands-on experience in designing and building highly scalable and reliable data pipelines using BigData stack (e.g Airflow, DBT, Spark, Hive, Parquet/ORC, Protobuf/Thrift, etc)\n• You have worked with Go-To-Market stakeholders in the past.\n• You’ve worked at a fast-growing company or are eager to contribute in such an environment (being a current Notion user would also be great!)\n\nNotion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco, the estimated base salary range for this role is $150,000 - $177,000 per year.\n\nBy clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy.#LI-Onsite\n\nA Note on AI\n\nYou don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we’ll make it explicit in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, move faster, and build more creatively.\n\nEqual Opportunity & Accommodations\n\nWe hire talented and passionate people from a variety of backgrounds because we want our teams to reflect the wide diversity of our customers. If you’re excited about a role but your experience doesn’t align perfectly with every bullet point listed, we still encourage you to apply.\n\nNotion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.",
+            "job_is_remote": false,
+            "job_posted_at": "3 days ago",
+            "job_posted_at_timestamp": 1780358400,
+            "job_posted_at_datetime_utc": "2026-06-02T00:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": [
+                "health_insurance"
+            ],
+            "job_benefits_strings": [
+                "Health insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNEtrh06pIYIoMkNvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": "150K–177K a year",
+            "job_min_salary": 150000,
+            "job_max_salary": 177000,
+            "job_salary_period": "YEAR",
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        },
+        {
+            "job_id": "e-69g07eUE5mjNkXAAAAAA==",
+            "job_title": "Data Engineer – Google Cloud Platform (mid-level)",
+            "employer_name": "Jobs via Dice",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/data-engineer-%E2%80%93-google-cloud-platform-mid-level-at-jobs-via-dice-4423988098",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/data-engineer-%E2%80%93-google-cloud-platform-mid-level-at-jobs-via-dice-4423988098",
+                    "is_direct": false,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Relanto, Inc., is seeking the following. Apply via Dice today!\n\nRole: Data Engineer – Google Cloud Platform (mid-level)\n\nDuration: 6+ months\n\nLocation: Bay Area, CA (hybrid)\n\nJob Summary:\n\nWe are looking for a skilled Data Engineer with 2–4 years of experience in building and maintaining scalable data pipelines and cloud-based data platforms on Google Cloud Platform (Google Cloud Platform). The ideal candidate should have hands-on expertise in Python, SQL, PySpark, BigQuery, Airflow, and modern ETL/ELT frameworks.\n\nThe role involves working closely with analytics, business, and engineering teams to enable reliable and scalable data solutions.\n\nRequired Skills:\n\n• 2–4 years of experience in Data Engineering or related roles\n• Strong hands-on experience with Python and SQL\n• Experience with PySpark and distributed data processing\n• Good knowledge of BigQuery and Google Cloud Platform services\n• Experience with Apache Airflow for orchestration\n• Hands-on experience with dbt for data transformation and modeling\n• Understanding of ETL/ELT frameworks and data warehousing concepts\n• Familiarity with Google Cloud Platform services such as:\n• BigQuery\n• Cloud Storage\n• Dataproc\n• Composer\n• Pub/Sub\n• Experience with Git and CI/CD practices\n• Strong analytical and problem-solving skills\n\nGood to Have:\n\n• Exposure to streaming pipelines using Kafka or Pub/Sub\n• Understanding of data governance and security concepts\n• Experience with Terraform or Infrastructure as Code\n• Knowledge of containerization (Docker/Kubernetes)\n\nPreferred Qualification:\n\n• Bachelor’s degree in Computer Science, Engineering, or related field\n• Google Cloud Platform certification is a plus",
+            "job_is_remote": false,
+            "job_posted_at": "2 days ago",
+            "job_posted_at_timestamp": 1780444800,
+            "job_posted_at_datetime_utc": "2026-06-03T00:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": null,
+            "job_benefits_strings": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De-69g07eUE5mjNkXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        },
+        {
+            "job_id": "s3bjD0IBUCRn50inAAAAAA==",
+            "job_title": "Data Engineer, Deal Intelligence & Automation, AWS GDSP",
+            "employer_name": "Amazon Web Services, Inc.",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhvF9EGO240KecCy-EZXI--1oeDiOBgHLdexL&s=0",
+            "employer_website": "https://aws.amazon.com",
+            "job_publisher": "Indeed",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=e721504c66e9b294",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://www.indeed.com/viewjob?jk=e721504c66e9b294",
+                    "is_direct": false,
+                    "publisher": "Indeed"
+                }
+            ],
+            "job_description": "DESCRIPTION\n\nGDSP is seeking a Data Engineer to own the data infrastructure that unlocks deal intelligence and automation capabilities across the organization. The role is responsible for designing, building, and maintaining the pipelines, data models, and platforms that enable deal teams to access precise, reliable insights from broad data sets (deal telemetry, pricing models, customer usage, pipeline signals) at scale, with speed and accuracy that hold as volume grows.\n\nThese data products serve deal strategists, pricing leaders, and senior executives who depend on them to structure, evaluate, and negotiate transformative contracts with AWS's most strategic customers. Quality, freshness, and accuracy of data outputs have direct, measurable impact on deal velocity, pricing quality, and revenue outcomes.\n\nThis is a high-visibility role. The data engineer partners closely with product management to translate analytical requirements into scalable data solutions, and with engineering teams to ensure pipelines integrate cleanly across GDSP's tooling ecosystem. The role will leverage generative AI and AWS services to raise the bar on how GDSP consumes and acts on data.\n\nKey job responsibilities\n\n• Build and maintain backend data infrastructure for analytical and visualization platforms, ensuring data is clean, fresh, and optimized for downstream consumption\n\n• Translate business problem statements into technical data requirements, partnering with product management and stakeholders to define what data products to build\n\n• Automate and optimize reporting processes to enable self-service analytics at scale, reducing manual effort and improving speed to insight\n\n• Develop measurement frameworks and metrics that quantify deal execution performance and operational health\n\n• Ensure data quality through monitoring, validation, auditing, and documentation of pipelines and data sources\n\n• Leverage AWS services and generative AI to build next-generation data solutions that improve efficiency and unlock new analytical capabilities\n\nAbout the team\n\nThe team builds products that power how GDSP operates. Reporting and tooling that are held to the highest standards of clarity, reliability, and scalability.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nWhy AWS?\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nInclusive Team Culture\n\nAWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.\n\nBASIC QUALIFICATIONS\n\n• 5+ years of data engineering experience\n\n• Experience with data modeling, warehousing and building ETL pipelines\n\n• Experience with SQL\n\n• Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS\n\n• Experience mentoring team members on best practices\n\nPREFERRED QUALIFICATIONS\n\n• Experience with big data technologies such as: Hadoop, Hive, Spark, EMR\n\n• Experience operating large data warehouses\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, San Francisco - 177,800.00 - 240,500.00 USD annually\n\nUSA, CA, Santa Monica - 154,600.00 - 209,100.00 USD annually\n\nUSA, GA, Atlanta - 154,600.00 - 209,100.00 USD annually\n\nUSA, IL, Chicago - 154,600.00 - 209,100.00 USD annually\n\nUSA, NY, New York - 170,000.00 - 230,000.00 USD annually\n\nUSA, TX, Austin - 154,600.00 - 209,100.00 USD annually\n\nUSA, TX, Dallas - 154,600.00 - 209,100.00 USD annually\n\nUSA, VA, Arlington - 154,600.00 - 209,100.00 USD annually\n\nUSA, VA, Herndon - 154,600.00 - 209,100.00 USD annually\n\nUSA, WA, Seattle - 154,600.00 - 209,100.00 USD annually",
+            "job_is_remote": false,
+            "job_posted_at": "9 days ago",
+            "job_posted_at_timestamp": 1779840000,
+            "job_posted_at_datetime_utc": "2026-05-27T00:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": [
+                "health_insurance",
+                "paid_time_off",
+                "dental_coverage"
+            ],
+            "job_benefits_strings": [
+                "Health insurance",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds3bjD0IBUCRn50inAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": "155K–209K a year",
+            "job_min_salary": 155000,
+            "job_max_salary": 209000,
+            "job_salary_period": "YEAR",
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        },
+        {
+            "job_id": "L6YJJwpHn4Y0Yc7cAAAAAA==",
+            "job_title": "Data Engineer III",
+            "employer_name": "Crunchyroll",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5fbMtnlVNZBUqR3-7c4Nyu3Ec7qaIqJdViJM&s=0",
+            "employer_website": "https://crunchyroll.com",
+            "job_publisher": "Built In San Francisco",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.builtinsf.com/job/data-engineer-iii/8376961",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "apply_link": "https://www.builtinsf.com/job/data-engineer-iii/8376961",
+                    "is_direct": false,
+                    "publisher": "Built In San Francisco"
+                }
+            ],
+            "job_description": "About Crunchyroll\n\nFounded by fans, Crunchyroll delivers the art and culture of anime to a passionate community. We super-serve over 100 million anime and manga fans across 200+ countries and territories, and help them connect with the stories and characters they crave. Whether that experience is online or in-person, streaming video, theatrical, games, merchandise, events and more, it’s powered by the anime content we all love.\n\nJoin our team, and help us shape the future of anime!\n\nAbout the Team\n\nThe Data Services team is focused on building robust, scalable, and efficient data services, pipelines, lakes, tools, libraries, and software components that drive best practices and empower service teams to succeed. We design and implement data services, pipelines and data lakes for operational analysis, ensuring they are production-ready with automation and standardized access controls.\n\nWe lead and evangelize the principle of 100% automation. Additionally, we establish best practices, provide training, and document data architectures to ensure our systems are reliable, future-ready, and capable of continuous evolution and process improvement across the organization.\nAbout the Role\n\nCrunchyroll is growing and changing, presenting unique challenges and opportunities to support millions of anime fans around the world. The Data Engineering team provides seamless help to our internal stakeholders, ensuring an exceptional experience for all Crunchyroll fans.\n\nAs a Software Engineer, you will play a pivotal role in designing, implementing, and optimizing data services, ensuring that our data services support the needs of the business. You will also collaborate with cross-functional teams to enhance eventing systems, and develop tools that empower our data and services teams. Your expertise will also be critical in driving 100% automation, best practices, creating scalable services, and optimizing our data environments.\nKey Areas of Responsibility\n• Write clean, maintainable, and well-documented API and code while adhering to industry best practices, including code reviews and design patterns.\n• Identify and resolve performance bottlenecks, ensuring that both frontend and backend components are optimized for speed and reliability.\n• Contribute to the automation and optimization of build, deployment, and monitoring processes to support a smooth development lifecycle.\n• Develop and maintain comprehensive test suites (unit and integration) to ensure system reliability and robustness.\n• Implement and maintain security best practices, safeguarding sensitive data and ensuring compliance with relevant standards and regulations.\n• Must be proficient in both TypeScript and Python\n• Design, build, and maintain scalable applications/services using TypeScript and Python and modern backend frameworks (Node.js preferred).\n• Build event-driven architectures and event interfaces using AWS services such as SNS/SQS, EventBridge, Kinesis, or Kafka.\n• Deep understanding of AWS Processing Framework like Step Functions\n• Architect and optimize database schemas and queries for relational (RDS PostgreSQL, MySQL), NoSQL (DynamoDB) and Graph Database (Neo4j).\n• Collaborate with service engineers, data engineers, and product teams to deliver high-quality software solutions.\n• Apply best practices for code quality, security, testing, and performance optimization.\nAbout you\n\nWe get excited about candidates, like you, because...\n• Bachelor’s degree in Computer Science, Information Technology, or a related field.\n• 5+ years of experience in backend engineering, specializing in microservices, APIs, and event-driven systems.\n• Strong expertise in TypeScript (Node.js) and Python.\n• Experience in building applications/services using TypeScript and Python and modern backend frameworks (Node.js preferred).\n• Deep understanding of cloud-based architectures (AWS preferred), including serverless frameworks, containerization (Docker, Kubernetes), and CI/CD pipelines.\n• Hands-on experience with event-driven architectures and event interfaces (Kafka, SNS/SQS, EventBridge, Kinesis).\n• Strong database design skills across relational (RDS PostgreSQL, MySQL), NoSQL (DynamoDB) and Graph Database (Neo4j).\n• Excellent problem-solving skills, ownership mentality, and ability to work in a collaborative, fast-paced environment.\nNIce to Have:\n• Experience with retrieval-augmented generation (RAG) or Graph RAG architectures.\n• Knowledge of fine-tuning and optimizing LLMs for performance and cost efficiency.\nWhy you will love working at Crunchyroll\n\nIn addition to getting to work with fun, passionate and inspired colleagues, you will also enjoy the following benefits and perks:\n• Receive a great compensation package including salary plus performance bonus earning potential, paid annually.\n• Flexible time off policies allowing you to take the time you need to be your whole self.\n• Generous medical, dental, vision, STD, LTD, and life insurance\n• Health Saving Account HSA program\n• Health care and dependent care FSA\n• 401(k) plan, with employer match\n• Employer paid commuter benefit\n• Support program for new parents\n• Pet insurance and some of our offices are pet friendly!\n\n#LifeAtCrunchyroll #LI-Hybrid\n\nThe Pay Range for this position is listed. Actual pay will vary based on factors including, but not limited to location, experience, and performance. The range listed is just one component of Crunchyroll’s Total Rewards offerings for employees. Other rewards may include performance bonuses, employer matched retirement savings, time-off programs, and progressive health benefits and perks.\n\nPay Transparency - Los Angeles, CA\n\n$148,000—$185,000 USD\n\nThe Pay Range for this position is listed. Actual pay will vary based on factors including, but not limited to location, experience, and performance. The range listed is just one component of Crunchyroll’s Total Rewards offerings for employees. Other rewards may include performance bonuses, employer matched retirement savings, time-off programs, and progressive health benefits and perks.\n\nPay Transparency - San Francisco, CA\n\n$164,100—$205,100 USD\n\nAbout our Values\n\nWe want to be everything for someone rather than something for everyone and we do this by living and modeling our values in all that we do. We value\n• Courage. We believe that when we overcome fear, we enable our best selves.\n• Curiosity. We are curious, which is the gateway to empathy, inclusion, and understanding.\n• Kaizen. We have a growth mindset committed to constant forward progress.\n• Service. We serve our community with humility, enabling joy and belonging for others.\n\nOur commitment to diversity and inclusion\n\nOur mission of helping people belong reflects our commitment to diversity & inclusion. It's just the way we do business.\n\nWe are an equal opportunity employer and value diversity at Crunchyroll. Pursuant to applicable law, we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nCrunchyroll, LLC is an independently operated joint venture between US-based Sony Pictures Entertainment, and Japan's Aniplex, a subsidiary of Sony Music Entertainment (Japan) Inc., both subsidiaries of Tokyo-based Sony Group Corporation.\n\nQuestions about Crunchyroll’s hiring process? Please check out our Hiring FAQs: https://help.crunchyroll.com/hc/en-us/articles/360040471712-Crunchyroll-Hiring-FAQs\n\nPlease refer to our Candidate Privacy Policy for more information about how we process your personal information, and your data protection rights: https://tbcdn.talentbrew.com/company/22978/v1_0/docs/spe-jobs-privacy-policy-update-for-crpa-dec-21-22.pdf\n\nPlease beware of recent scams to online job seekers. Those applying to our job openings will only be contacted directly from @crunchyroll.com email account.",
+            "job_is_remote": false,
+            "job_posted_at": "12 days ago",
+            "job_posted_at_timestamp": 1779580800,
+            "job_posted_at_datetime_utc": "2026-05-24T00:00:00.000Z",
+            "job_location": "San Francisco, CA",
+            "job_city": "San Francisco",
+            "job_state": "California",
+            "job_country": "US",
+            "job_latitude": 37.7749295,
+            "job_longitude": -122.4194155,
+            "job_benefits": [
+                "paid_time_off",
+                "health_insurance",
+                "dental_coverage"
+            ],
+            "job_benefits_strings": [
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DL6YJJwpHn4Y0Yc7cAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_salary_string": "148K–185K a year",
+            "job_min_salary": 148000,
+            "job_max_salary": 185000,
+            "job_salary_period": "YEAR",
+            "job_highlights": {},
+            "job_onet_soc": null,
+            "job_onet_job_zone": null,
+            "employer_reviews": null
+        }
+    ]
+}

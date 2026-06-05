@@ -4,3 +4,6 @@ prisma
 requests
 sentence-transformers
 pypdf
+scikit-learn
+joblib
+psycopg[binary]

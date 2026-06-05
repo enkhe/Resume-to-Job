@@ -1,0 +1,189 @@
+name: CI/CD
+
+# Build + test + (re)train the model on every push/PR.
+# Package + deploy to Azure only on main (or manual) when ENABLE_DEPLOY=true.
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+env:
+  PYTHON_VERSION: "3.11"
+  IMAGE_NAME: resume-to-job
+
+jobs:
+  # ---------------------------------------------------------------------------
+  build-test-train:
+    name: Build · Test · Train model
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt -r requirements-dev.txt
+
+      - name: Run tests
+        run: python -m pytest tests/ -q
+
+      - name: Train model (produces a new versioned model.joblib)
+        # The MLOps step: rebuild the dataset from the committed harvest and
+        # register a fresh model version. Skips cleanly if no dataset is present.
+        run: |
+          if [ -f data/jsearch_raw/manifest.json ]; then
+            python ml/train_role_classifier.py
+          else
+            echo "::warning::No harvested dataset (data/jsearch_raw/) committed — shipping the committed model."
+          fi
+
+      - name: Upload model artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: model-artifact
+          path: models/
+          if-no-files-found: warn
+
+  # ---------------------------------------------------------------------------
+  docker:
+    name: Build & push image (Azure Container Registry)
+    needs: build-test-train
+    runs-on: ubuntu-latest
+    # Only on main or manual dispatch, and only when deploy is explicitly enabled.
+    if: >-
+      (github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch')
+      && vars.ENABLE_DEPLOY == 'true'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download trained model
+        uses: actions/download-artifact@v4
+        with:
+          name: model-artifact
+          path: models/
+
+      - name: Log in to Azure Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ vars.AZURE_ACR_LOGIN_SERVER }}
+          username: ${{ secrets.AZURE_ACR_USERNAME }}
+          password: ${{ secrets.AZURE_ACR_PASSWORD }}
+
+      - name: Build and push image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          tags: |
+            ${{ vars.AZURE_ACR_LOGIN_SERVER }}/${{ env.IMAGE_NAME }}:latest
+            ${{ vars.AZURE_ACR_LOGIN_SERVER }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+
+  # ---------------------------------------------------------------------------
+  # Blue-Green deploy: roll out the new image as a fresh ("green") revision that
+  # receives 0% traffic, health-check it on its own FQDN, and only then shift
+  # 100% of live traffic to it. The previous ("blue") revision is kept warm for
+  # instant rollback. This is what gives us near-zero-downtime releases.
+  deploy:
+    name: Blue-Green deploy to Azure Container Apps
+    needs: docker
+    runs-on: ubuntu-latest
+    environment: production
+    if: >-
+      (github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch')
+      && vars.ENABLE_DEPLOY == 'true'
+    env:
+      # NOTE: the `env` context is NOT available in a job-level `env:` map, so we
+      # inline the image name (env.IMAGE_NAME == "resume-to-job") here literally.
+      APP: ${{ vars.AZURE_CONTAINERAPP_NAME }}
+      RG: ${{ vars.AZURE_RESOURCE_GROUP }}
+      IMAGE: ${{ vars.AZURE_ACR_LOGIN_SERVER }}/resume-to-job:${{ github.sha }}
+    steps:
+      - name: Azure login
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Blue-Green release (deploy green → health check → shift traffic)
+        uses: azure/cli@v2
+        with:
+          azcliversion: latest
+          inlineScript: |
+            set -euo pipefail
+            SUFFIX="g$(echo '${{ github.sha }}' | cut -c1-7)"
+            GREEN="${APP}--${SUFFIX}"
+
+            echo "::group::1. Ensure multiple-revision mode (blue stays live during rollout)"
+            az containerapp revision set-mode -n "$APP" -g "$RG" --mode multiple
+            echo "::endgroup::"
+
+            echo "::group::2. Capture current live (BLUE) revision"
+            BLUE=$(az containerapp ingress traffic show -n "$APP" -g "$RG" \
+              --query "[?weight > \`0\`].revisionName | [0]" -o tsv || true)
+            echo "BLUE (current live) = ${BLUE:-<none / first deploy>}"
+            echo "::endgroup::"
+
+            echo "::group::3. Roll out GREEN revision ($GREEN) at 0% traffic"
+            az containerapp update -n "$APP" -g "$RG" \
+              --image "$IMAGE" --revision-suffix "$SUFFIX"
+            echo "::endgroup::"
+
+            echo "::group::4. Wait for GREEN to reach Running"
+            for i in $(seq 1 30); do
+              STATE=$(az containerapp revision show -n "$APP" -g "$RG" --revision "$GREEN" \
+                --query "properties.runningState" -o tsv 2>/dev/null || echo "Unknown")
+              echo "  GREEN runningState=$STATE ($i/30)"
+              [ "$STATE" = "Running" ] && break
+              sleep 10
+            done
+            echo "::endgroup::"
+
+            echo "::group::5. Smoke-test GREEN on its private revision FQDN (no user traffic yet)"
+            GREEN_FQDN=$(az containerapp revision show -n "$APP" -g "$RG" --revision "$GREEN" \
+              --query "properties.fqdn" -o tsv)
+            CODE=000
+            for i in $(seq 1 20); do
+              CODE=$(curl -s -o /dev/null -w "%{http_code}" "https://$GREEN_FQDN/_stcore/health" || echo 000)
+              echo "  GET https://$GREEN_FQDN/_stcore/health -> $CODE ($i/20)"
+              [ "$CODE" = "200" ] && break
+              sleep 6
+            done
+            if [ "$CODE" != "200" ]; then
+              echo "::error::GREEN failed health check ($CODE) — aborting. BLUE ($BLUE) stays live."
+              az containerapp revision deactivate -n "$APP" -g "$RG" --revision "$GREEN" || true
+              exit 1
+            fi
+            echo "::endgroup::"
+
+            echo "::group::6. Shift 100% traffic BLUE → GREEN (the swap)"
+            if [ -n "${BLUE:-}" ] && [ "$BLUE" != "$GREEN" ]; then
+              az containerapp ingress traffic set -n "$APP" -g "$RG" \
+                --revision-weight "$GREEN=100" "$BLUE=0"
+            else
+              az containerapp ingress traffic set -n "$APP" -g "$RG" \
+                --revision-weight "$GREEN=100"
+            fi
+            echo "Traffic is now 100% on GREEN ($GREEN)."
+            echo "::endgroup::"
+
+            echo "::group::7. Keep BLUE warm for rollback"
+            if [ -n "${BLUE:-}" ] && [ "$BLUE" != "$GREEN" ]; then
+              echo "BLUE ($BLUE) retained at 0% traffic. Rollback = shift traffic back to it."
+            fi
+            echo "::endgroup::"
+
+      - name: Release summary
+        if: always()
+        run: |
+          {
+            echo "### Blue-Green deploy"
+            echo "- **Image:** \`$IMAGE\`"
+            echo "- **App:** \`$APP\` (RG \`$RG\`)"
+            echo "- **Result:** ${{ job.status }}"
+          } >> "$GITHUB_STEP_SUMMARY"
