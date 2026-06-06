@@ -2,7 +2,18 @@ from __future__ import annotations
 
 import os
 
+from dotenv import load_dotenv
+
 from src.ports.output.job_repository import JobRepositoryPort
+
+# Load a local .env at import time so DATABASE_URL (and the AI keys) are picked up
+# no matter which script Streamlit runs as the entrypoint. Streamlit executes each
+# page in pages/ as its own script, so a user deep-linking straight to a page would
+# otherwise never run app.py's loader and would silently fall back to SQLite. This
+# module is the single choke point every page imports before touching the store.
+# Real environment variables (e.g. the Azure Container App secret) always win
+# because override defaults to False.
+load_dotenv(override=False)
 
 
 def _normalize_pg_dsn(dsn: str) -> str:

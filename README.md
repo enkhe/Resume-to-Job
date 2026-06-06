@@ -28,7 +28,7 @@ Full documentation lives in [docs/](docs/README.md). Start there for:
 | **Job Matching** | PDF resume → cosine **Find Matches** → **Get AI Recommendations** on filtered jobs only |
 | **Observability** | JSON logs on ingest / match / AI ([testing/OBSERVABILITY.md](testing/OBSERVABILITY.md)) |
 | **Offline eval** | `testing/scripts/pipeline_eval.py` |
-| **Storage** | SQLite (`data/jobs.db` by default) |
+| **Storage** | Azure PostgreSQL via `DATABASE_URL` (shared local + cloud store) |
 | **Container deploy** | Scaffolding only — [DEPLOYMENT.md](DEPLOYMENT.md) |
 | **Resume Builder** | Removed from scope |
 | **Web scraper / PostgreSQL** | Documented as future / alternate adapters |
@@ -39,8 +39,21 @@ Full documentation lives in [docs/](docs/README.md). Start there for:
 
 ```bash
 pip install -r requirements.txt
+cp .env.example .env          # then set DATABASE_URL to the Azure Postgres connection string
 streamlit run app.py
 ```
+
+The app auto-loads `.env` on startup (via `python-dotenv`), so a local `streamlit run` — including
+in GitHub Codespaces — talks to the **same Azure PostgreSQL store as the cloud deployment**. Your
+`.env` is gitignored. `export DATABASE_URL=...` in the shell works too and takes precedence.
+
+```
+DATABASE_URL=postgresql://<user>:<password>@<server>.postgres.database.azure.com:5432/jobs?sslmode=require
+```
+
+If `DATABASE_URL` is not set, the app falls back to local SQLite, but the intended local setup for
+this project is to use the Azure-backed shared database. (Reaching Azure Postgres from a new machine
+may require adding its egress IP to the Postgres firewall.)
 
 Open http://localhost:8501 and use the sidebar:
 

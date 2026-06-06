@@ -46,6 +46,7 @@ resumes to jobs, and ships through a build → test → train → deploy pipelin
 | What | Where |
 |------|-------|
 | Run the app | `streamlit run app.py` → http://localhost:8501 |
+| Use the shared Azure DB locally | Set `DATABASE_URL` to the Azure PostgreSQL DSN first |
 | Train the model | `python ml/train_role_classifier.py` |
 | Harvest jobs | `python testing/scripts/harvest_jobs_jsearch.py --dry-run` |
 | Run tests | `python -m pytest tests/ -q` |

@@ -59,7 +59,7 @@ def _load_classifier() -> SklearnJobClassifierAdapter:
 
 def streamlit_app() -> None:
 	st.title("Dashboard")
-	st.caption("Pipeline overview and paginated job catalog from SQLite")
+	st.caption("Pipeline overview and paginated job catalog from the shared Azure PostgreSQL job store")
 
 	if "dashboard_page" not in st.session_state:
 		st.session_state.dashboard_page = 1
@@ -100,7 +100,10 @@ def streamlit_app() -> None:
 		)
 
 	if stats.total_jobs == 0:
-		st.warning("No jobs in the database yet. Ingest jobs on the Data Ingestion page.")
+		st.warning(
+			"No jobs are present in the Azure PostgreSQL job store yet. "
+			"Ingest jobs on the Data Ingestion page to populate listings and embeddings."
+		)
 		repo.close()
 		return
 

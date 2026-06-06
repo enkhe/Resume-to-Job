@@ -7,3 +7,4 @@ pypdf
 scikit-learn
 joblib
 psycopg[binary]
+python-dotenv

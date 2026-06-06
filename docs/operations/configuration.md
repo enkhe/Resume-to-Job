@@ -8,6 +8,7 @@ the UI where applicable).
 | Variable | Purpose | Default |
 |----------|---------|---------|
 | `APP_VERSION` | Shown on the Home page (Docker build arg) | `dev` |
+| `DATABASE_URL` | Shared PostgreSQL database used by local + cloud runs | Azure DSN |
 | `JOB_DB_PATH` | SQLite database file | `data/jobs.db` |
 | `LOG_LEVEL` | Structured log level | `INFO` |
 

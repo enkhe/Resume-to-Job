@@ -63,14 +63,17 @@ def streamlit_app() -> None:
     )
 
     if not job_store_available():
-        st.warning("No job database found. Ingest jobs on the Data Ingestion page first.")
+        st.warning(
+            "Set DATABASE_URL to the shared Azure PostgreSQL job store before searching. "
+            "That store holds the job listings and their embedding vectors."
+        )
         return
 
     repo = get_job_repository()
     job_count = repo.count()
     repo.close()
     if job_count == 0:
-        st.warning("No jobs in the database yet. Ingest jobs first.")
+        st.warning("The Azure PostgreSQL job store is empty right now. Ingest jobs to build the search index.")
         return
 
     use_case, _jobs = _build_search(job_store_cache_key(), job_count)

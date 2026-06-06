@@ -14,5 +14,5 @@ services:
       - path: .env
         required: false
     environment:
-      JOB_DB_PATH: /app/data/jobs.db
+      DATABASE_URL: ${DATABASE_URL:?Set DATABASE_URL to your Azure PostgreSQL connection string}
     restart: unless-stopped
