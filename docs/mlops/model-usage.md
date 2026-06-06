@@ -46,13 +46,14 @@ if clf.is_ready():
 
 ## Where it appears in the UI
 
-The classifier is consumed on **two surfaces**:
+The classifier is consumed on **four surfaces**:
 
 | Surface | What it shows | Code |
 |---------|---------------|------|
 | **Home** (`app.py`) | "Role-classifier model" metric, e.g. `v2 (89% acc)` | [app.py](../../app.py) |
 | **Dashboard** | A `predicted_role` column on every job in the catalog, plus a **"Role-category mix (model-predicted)"** breakdown across the whole corpus, plus a model badge (version, accuracy, #classes) | [dashboard_app.py](../../src/adapters/inbound/streamlit/dashboard_app.py) |
-| **Model Ops** | Registry/metrics view and the **Retrain** action that produces a new version | [pages/5_Model_Ops.py](../../pages/5_Model_Ops.py) |
+| **Job Search** | A `predicted_role` column on each search result (keyword and semantic hits alike) | [job_search_app.py](../../src/adapters/inbound/streamlit/job_search_app.py) |
+| **Model Ops** | Registry/metrics view, **drift detection** (compares the model's `data_fingerprint` to the current dataset), and the **Retrain** action that produces a new version | [pages/5_Model_Ops.py](../../pages/5_Model_Ops.py) |
 
 > The classifier is **read-only** at inference time — predictions are computed on the fly for
 > display and are not written back to the `jobs` table.
