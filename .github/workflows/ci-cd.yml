@@ -116,6 +116,16 @@ jobs:
           azcliversion: latest
           inlineScript: |
             set -euo pipefail
+
+            # Defensive trim: a stray newline/space saved into the
+            # AZURE_RESOURCE_GROUP / AZURE_CONTAINERAPP_NAME variables turns
+            # "-g $RG" into a malformed resource group and Azure then reports
+            # "The containerapp '<app>' does not exist". Strip all whitespace so
+            # a copy-paste error in the GitHub variable can never break the deploy.
+            APP="$(printf '%s' "$APP" | tr -d '[:space:]')"
+            RG="$(printf '%s' "$RG" | tr -d '[:space:]')"
+            IMAGE="$(printf '%s' "$IMAGE" | tr -d '[:space:]')"
+
             SUFFIX="g$(echo '${{ github.sha }}' | cut -c1-7)"
             GREEN="${APP}--${SUFFIX}"
 
