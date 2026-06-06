@@ -19,6 +19,7 @@ resumes to jobs, and ships through a build → test → train → deploy pipelin
 
 ### MLOps
 - [Model card](mlops/model-card.md) — the job-role classifier, metrics, intended use, limits
+- [Model usage](mlops/model-usage.md) — what the model is for and where it runs in the app
 - [Training pipeline](mlops/training-pipeline.md) — dataset, labels, training, versioning, registry
 - [Lifecycle](mlops/lifecycle.md) — the ingest → retrain → build → deploy loop and drift detection
 

@@ -10,7 +10,8 @@
 
 ## Intended use
 Auto-tag ingested jobs by role category in the Dashboard and enrich search results. It is a
-lightweight, interpretable baseline — **not** a hiring or ranking decision system.
+lightweight, interpretable baseline — **not** a hiring or ranking decision system. For exactly
+where and how it runs in the app, see [Model usage](model-usage.md).
 
 ## Classes (11)
 `Software Engineering`, `Frontend`, `Backend`, `Full Stack`, `Data & Analytics`,
