@@ -126,7 +126,7 @@ def streamlit_app() -> None:
 	"""Inbound adapter for the Job Matching page."""
 	st.title("Job Matching")
 	st.caption(
-		"Upload a resume, filter jobs with cosine similarity, then get an AI score and recommendations "
+		"Demo - Upload a resume, filter jobs with cosine similarity, then get an AI score and recommendations "
 		"for those filtered jobs only"
 	)
 
