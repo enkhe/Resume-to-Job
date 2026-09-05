@@ -204,3 +204,6 @@ Docker files support **2.0 → 2.1 → 2.2** image tags when the app is ready to
 Older sections in git history described PostgreSQL, Prisma, Resume Builder, and three ingestion paths including scraping. The running app uses **SQLite** and the flows documented above; PostgreSQL and scraper remain architectural targets, not the current runtime.
 
 ![Architecture diagram](docs/image/README/1780005528593.png)
+
+
+<!-- Security scan triggered at 2026-09-05 07:55:11 -->
